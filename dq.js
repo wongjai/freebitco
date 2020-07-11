@@ -1520,7 +1520,7 @@ var Trevel = {
 	swap: true,
 	betSpeed: 2,//change this on init
 	verbose: true,
-	isTesting: true,
+	isTesting: false,
 	showEvery:10000,//log to console after bets if verbose is false
 	//money management
 	useKelly: false,//martingale performs better on live account!
