@@ -1,361 +1,685 @@
-HBOHD,tvbus://4kA2fcNWc5e1nYPPFYAyocY5htRFQmzWCZXGgXxkCw6ogNf3JM
-HBOHD,tvbus://4Fwkv1L2D2XWYbSEU1BHWgquUZtaKo4HLq7MDdyN8qHWT3PHze
-HBOHD,tvbus://12KCagZJAnMJNj1jKtPBLC64zMxAvcxBVhm174x5NUpu1pyQqrE
-HBOÂéüÂàõ,tvbus://3v8zpFXQb2Cue6om4TsHs7zwUdK9VTcZKAP5zyijoHjgoL1rmm
-HBOHitsHD,tvbus://4J8GkzUNxxjHP9r4R5o9VecuRYMXwsEkfTshKF11Wqo8qcdrA8
-HBOÂÆ∂Â∫≠,tvbus://4T8nUc5CK5yB35iVrF6Y4bBPEt7DEthmu2URTkLg39S5AuW3tU
-Êé¢Á¥¢È¢ëÈÅì,tvbus://4FEtRV7HKULYp4hVxiwAeWdrDp3FYqgPF2AFcCZSjXUv9rmCQb
-Êé¢Á¥¢‰∫öÊ¥≤È¢ëÈÅì,tvbus://3is8b5Gb7wYh4McEepKH4wAVcwnoe91QVAD7WnQhxJZsh4juYV
-Êé¢Á¥¢ÁßëÂ≠¶,tvbus://2zRk8NFurTwvPHmeqk3u6HtrkPifXLpzpWz7ZqF4eBxx2DtdMb
-Êé¢Á¥¢Âä®ÂäõDMAX,tvbus://4DjM9oReAShBSaiebKf6imNvHLukTicniCg8HyqKzwWnN2rxiq
-Êé¢Á¥¢ÂÆ∂Â∫≠EVE,tvbus://3W4pSjR3PV1q9D3QDDyWDidRjTtep9FVcN9Gp5MyZhWGRa1SJt
-Outdoor,tvbus://4THQ6Rpoax1CNMH1VqWJ9Kk8e2aKYAJ9VG3sZ2aTxtnWUjFjpa
-Âø´‰πêÂûÇÈíì,tvbus://4NihTCnmHES7j9s3jD8gM1kdSyP3VRda9gXq4of2tKRMRMphrC
-BSÈíì„Çä„Éì„Ç∏„Éß„É≥,tvbus://4DCeGSqrViLqMHYL27uzURBgyoP1vsHoSjzB2bMTFjDH2XMYAi
-ÂõΩÂÆ∂Âú∞ÁêÜ,tvbus://4VhhHBXm9ZzPDTrxPYxDCKymxLvYrYKx4PqU2A1f8ipBbRVMZu
-ÂõΩÂÆ∂Âú∞ÁêÜ‰∫∫Êñá,tvbus://38tNusbqaxLYdmnF2dQZmMBhr9DokbgowwJ4fByUjk9Gt9RtQW
-ÂõΩÂÆ∂ÈáéÁîü,tvbus://4HgJYXEjzUDKG6sxqsxqxYtRRB2DMfZcAi6ohXnfAnEvyMwTP4
-Âä®Áâ©ÊòüÁêÉ,tvbus://3BuFkW4WikD1GD7Q1X9jbvd9Ux3kv6okPSnGDcUhVwZ5AfLbyK
-ÁãºË∞∑Á´ûÊäÄ,tvbus://39iDP8dJrcsfsXgkVka9M5XmX5FFqKLMmXYrEHSEetizB2WrBd
-ËßÜÁ∫≥Âçé‰ªÅÁ∫™ÂÆûÂè∞,tvbus://4BEQhKZLoNWJxEjBZjB9Ho9EUrvrFPh6D57iViJ7MPHbKotPqs
-ÂΩ±Ëø∑Êï∞‰ΩçÁîµÂΩ±Âè∞,tvbus://2xAQHBZdJfFJSpc5q6d5A1XzLLxMsNJmZjFuktWWgpB761jCyQ
-ÂΩ±Ëø∑Êï∞‰ΩçÁ∫™ÂÆûÂè∞,tvbus://33AtKnSq91MQCGWDPe4zxTsNxCsUeonxtKVEVrPDZe8J6RKNiC
-ÂéÜÂè≤È¢ëÈÅì,tvbus://4XeMS8kz7TJ9PggyiUBMDYZteNq1vBqKCYj2xtjmN9GroPauqn
-ÂéÜÂè≤È¢ëÈÅìH2,tvbus://3EYvvkrmLsZa7YBfcvNoS6bGitonYUdReqtnPGJjk67HaPWtjG
-BBCLifestyle,tvbus://3CdY5ZpPfM9AUADZcT9CM5rA3CgCasDcU7pAXyxw7isJjoJeCQ
-BBCEarth,tvbus://4YsHdwXQY6ZjJWRaegMPYmgzvf1onQxnFK248vF1zVEzyDu9Tj
-EYETVÊóÖÊ∏∏Âè∞,tvbus://3TKmmxbTvuWaQqNxJaL3kFjz7RbNwh8DXqM6Zf62v7mr5CrVCe
-TLCÊóÖÊ∏∏Âè∞,tvbus://3nv225469GV72TURUjXNaxunNmuSeDK9QqdLpYj8H9ofDVQL1T
-‰∫öÊ¥≤ÊóÖÊ∏∏,tvbus://3AAKeznLg6KjALMKdz1bPogjQoDmEaaJn1atRuM2FZ4jy3zm6h
-afc‰∫öÊ¥≤ÁæéÈ£üHD,tvbus://3mfabSGHxFQ9xye8rd2mFAqu39Kw7bPVZX1bQtf1izxZZTnvNY
-FOODÁæéÈ£ü,tvbus://39Ss5wt6F5zT9dX4DwThz83UryCjpGLwW8UMWrt4NTfY56tc4p
-Âπ∏Á¶èÂ±ÖÂÆ∂,tvbus://3NiaRGtNbHVAmQNc4Jr6oAdkVSr4u1gyuPXQhqS9PGBDA66znW
-ÊªöÂä®ÂäõÁ∫™ÂÆû,tvbus://3vcHcxEByWRayyt3VwHykjrNjwmxypkMkWaikXgKHodtkBApbC
-ÁæéÈ£üÊòüÁêÉ,tvbus://3zfx7XEKTMYrKoFX4S8tQepB6h59t2nVwAFjERx5yWZvEN1RxL
-MTVHD,tvbus://31mfwjxXeK2sUVMvLLB7SeuyB91K1dhw1wNNkegSCb1cN39MyX
-ClassicaHDÂè§ÂÖ∏Èü≥‰πê,tvbus://3EEZQL4CvXE4hyi8YhQELRt8rCjx3uKcgphicALqqQb4tEeNdQ
-MezzoLive,tvbus://4rpx4wE5wbiqEQjSF1bA1hMFQyVpy3NVBmbdVKF7B7jb8rzgyE
-Ê≥ïÂõΩÊó∂Ë£Ö,tvbus://3ZY2QFu62uUWGokYxoBkBoamNXjxyJeB3gTwb4qUtSfm5VHbbE
-MTVÁªºÂêà,tvbus://4QGcyS8Pos6grLPnc2dmQdgQ91TTKe64sCntQooVuWaCoiwGYw
-LUXEÂ•¢ÂçéÈ¢ëÈÅì,tvbus://4SXAWLdP48fqaeaLfsnjwy2y4cqXNa161fgPgTjF5y3nsA4F3U
-Èü©ÂõΩÂ®±‰πêÂè∞KMTV,tvbus://46h3bKxRZVb61kwYSoZjpt6TXmRwR9HuFDd3trKDZqLNsQ7MMT
-tvN,tvbus://3LmGWVyUwZ3b9oeik2a4PxscBN8UnxTSvNfvubXqLVTvHDmHJD
-MTVLive,tvbus://4H3ubmfB33Cs6y3dUdEvkXiqJ7bUWhXpXcs3mcr3biMZ2cwPA2
-ChannelV,tvbus://4aDnB1kqUYZqebPrJTrPgDfYcP6PEyxLagsszDsveDNJ6ojtk5
-È¶ôÊ∏ØÊó†Á∫øÂäüÂ§´Âè∞,tvbus://3iJYHQLExJhHW2586ZAL4i5qG25nZqbQZHg4fvaiUQA4BUmxJJ
-Lifetime,tvbus://3KV2E3epaS4R5c2Pxdbos9xWff4m5sZnFaazozKV8ezn98CAM5
-FOXCRIMEÁ¶èÊñØË≠¶Âå™,tvbus://4JEz6KZH9t3dffVAYeS934SyWB83FfmSCVWceTxVAWwxkwe8Se
-FOXÈ¢ëÈÅì,tvbus://3mfb419dPqNbhWwMB6dvs1MxyUwPmbpQe566AzrLRjzrGNLvJr
-FXHD,tvbus://34ZVwABLBBtnZAWKmpxcik5Km5Rx4pJyDHnBgg9wpCcyCMzFsm
-FOXÂä®‰ΩúÂè∞,tvbus://4UAy6J234eU5cxLkWQGzi3i88skKvmLd2wptjN8Q3p3Sf1CYSG
-FOX‰ºòË¥®ÁîµÂΩ±Âè∞,tvbus://39XFdzJbdBgdcWV3vWtcnFgmpQeZrErBW38VoCLeEk8PpXt18P
-FoxÁ¶èÊñØÂÆ∂Â∫≠,tvbus://4EJMvpiZNHR9g2Po2rEcB9fSzWnXDuSFRkLMa6VfV6NRCufmcW
-ÈááÊòåÂΩ±Ââß,tvbus://3YsV9BWV5JtxbftBzbhTDCAuUG7PkGaNxP6LSczVkB3BeiDdm3
-È¶ôÊ∏ØÁ¶èÊñØÁîµÂΩ±,tvbus://3imTT9EJgEd1btLydTeus8owZ9EVEahTW6gnVQSyQtaQqa3h3y
-thrillÁîµÂΩ±Âè∞,tvbus://3pgRGEzspDoWVK8x85G2peouJG2WgJ16tDvUXM1g3A8c42ZQnA
-KIXÁîµÂΩ±Âè∞,tvbus://3wwmHXM17nwQrjyPtKL5qPu2LTYe93mDtu6P89DNS85TYK1QLi
-ÁΩ™Ê°à‰æ¶ÁºâÈ¢ëÈÅì,tvbus://4iniAPtAGdZPUSso1phViS97hS2utYi1nU9epEthMNtMxUr5kZ
-ÂçéÁ∫≥WarnerTV,tvbus://3MS7RK3yuajsWNc9FbCmY8f9LX6mWX17sz9fH3yR7eMww4bPuF
-CinemaWorld,tvbus://3mwXdUiGNra6jnpzwaXJmjNmqVP1j2TH95AEDwT25USDBjBTiq
-Âç´ËßÜË•øÁâá,tvbus://3cRFPDDupS4WH9JvjVqN8zPfet64JZHaePyy8t1M6xWcJQDXFF
-BLUEANTEXTREME,tvbus://3xSue6SYPwnWTRJx9eU367v2iwgV3mCXRQeyKvSQGktittNHwC
-ComedyCentralAsia,tvbus://3Q5xQnQXUNdyL7C2b2DEwLpEcegezHZNnV6kFsqUZw9eZsz1G5
-CatchPlayÁîµÂΩ±Âè∞,tvbus://3Hss9pdmbvm1EAW9jMy95NZ1MGJYAJTQt1yeYC8FoqHRj32hQD
-WakuWakuJapan,tvbus://2ycTsGokKdYNTVBmekantBek9wxGasWBF3zhiH14Q67xa99zLh
-Ê¨ßÊ¥≤Euronews,tvbus://3jbynqdYbDgDWLe79e7bUUdJtyWgFEH1PG5SdygsfRN3NRMUd4
-‰∏âÁ´ãÁªºÂêàÂè∞,tvbus://48ZBcVJWpxs7MfiFzbHSV7Uo61sghn66q3sBLenAvKNK9Puvbr
-‰∏âÁ´ãÊàèÂâßÂè∞,tvbus://4qyWffYvy2wPyo26ctNryKLuDmFwhwsozFVQ61QQMSpHG6Siap
-ÈùñÂ§©Ê¨¢‰πê,tvbus://4muFoPxregJV8tzW58GSKyQN7AGTEpFtx7wer4gYXEa8P1X1Zm
-ÈùñÂ§©Êó•Êú¨Âè∞,tvbus://3dfiWry8FBsKU6pQLnDU5xpQuwdkyUiHXnpLYs1wvzHN5EeH6z
-ÈùñÂ§©ËµÑËÆØÂè∞,tvbus://3nVWAmC5xb2WggdMxnn8Mv5xZ1sxJF8qoWtmUY7Sm6TRGyZGnG
-ÈùñÊ¥ãÊàèÂâßÂè∞,tvbus://3ZgBXBh2n2Fs8NkBzsj7NUCFecb5bxmN6c9a3ZQ5gEf2JRNvSR
-ÈùñÂ§©ÂõΩÈôÖÂè∞,tvbus://4HxmhKpX7ngoKLicSdu6CTuhA2yst2iafXcjEQ7By5VCK29VrE
-ÈùñÂ§©ÁîµÂΩ±Âè∞,tvbus://394DGbEtPTq6f2CyEJrGAiYe3WYruoeXddJVpFfKi16UAJz3Fd
-Ë∂ÖÁ∫ßÁîµÂΩ±,tvbus://3uGeAYybRPtoawE4HvaqmwLp6UFmbMUd22GMxRLwfdW7fBUY8r
-Â§©Êò†ÁîµÂΩ±,tvbus://4MKCFbmWbEyGooV7kFigyrsHB29hL1xa5dPnCHfTC696gZARXh
-ÊòüÂç´ÁîµÂΩ±HD,tvbus://3aty3BG9trkxXcvrP1LhcL8wNPd6RSDbJQTXbuhXCrXxhJ7zrE
-Áæé‰∫öÁîµÂΩ±Âè∞,tvbus://4t1FQHcNx94RLQEUPNCdw1SHy6VsdpmFhBuaNN3M8apkQea3tz
-ÂÖâÂΩ±Ê¨ßÊ¥≤,tvbus://3wfZaiGPSnhHZoS3kt4bixyRXcv4mWS5gpNJX9qoLDRveFajJx
-ÂçéËâ∫ÂΩ±Ââß,tvbus://4rtzqN36BzdrAdogRTjcvfJu6fqvitFhdHmy7zjzhKFC917qtH
-ÂçéËâ∫MBCÁªºÂêà,tvbus://4NmZp1hLVKh4iuZGA6oWoTtVdhhpGmr2k2sM5BEP5fH4fGi24j
-ÊòüÂç´Â®±‰πêÂè∞,tvbus://4jhniP3aAPfP7rNV58HP7rpEp1UjvS55o6aw3oJjV9bR5SGc9C
-TVBSÁ≤æÂΩ©,tvbus://4FMW9iMMVek1sNfyAuAqnvuC19AJUuHckUwPz6wRYYzqpqYuEL
-HITS,tvbus://4hBzaysCqYzF8ZD4sYvggY2npHQ1Zv678dzxB3yjNpGy9NHmxU
-ÈæôÂçéÂΩ±Ââß,tvbus://4G4BhLtrqsHaxLxzg15zszQWpL6Lqwuwrr71yB4jSqk4CZA2o4
-ÈæôÂçéÊ¥ãÁâá,tvbus://2yQGzDaGivVxuAFX2TuKagCfaNMaUTJpE5PXxZkY7XZUNo6Fks
-ÈæôÂçéÊàèÂâß,tvbus://3vcHcxEByWRayyt3VwHykjrNjwmxypkMkWaikXgKHodtkBApbC
-ÈæôÂçéÂä®Áîª,tvbus://4NoCe4ZmHu2NNuWrVvyrcetGtEcJWsXSDWL2gg7DmyFp6gAYM1
-EYETVÊàèÂâß,tvbus://4onyvPsdmwuvHKQUqkDH4JkKCSnEHRnHytdW68eGpJs44X9uXG
-Áà±Â∞îËææÂΩ±ÂâßÂè∞,tvbus://3HHa516KG3Rnoj1Fd2Lv3fBhzG1NL7QiWG86Xn2WXeb4d9iaKj
-Áà±Â∞îËææÁªºÂêàÂè∞,tvbus://3S9PPa7JEoC4UeT8GqHLSXPUhffaQ5qghvu2jxUQ6hx56M5bjb
-Áà±Â∞îËææ‰ΩìËÇ≤1Âè∞,tvbus://37vcaWZHCeBKGszJepqtDHnkCuCq2cpa7r5o5bvxQx3fyzxcS8
-Áà±Â∞îËææ‰ΩìËÇ≤2Âè∞,tvbus://3eiTBhHJrs2a9r6NQJq95dxpEw2vRUmvxkeLMBjTACcquRZBiT
-Áà±Â∞îËææ‰ΩìËÇ≤3Âè∞,tvbus://31T3iXSfhSjqEkCfZQP6M1L3LSx1BT3Bnv1njNAggQx3vHABpS
-ÈúπÈõ≥Âè∞ÊπæÂè∞,tvbus://4psyVoAVE4ss8WEU3QzEaeiUnvMr18K4ouxkuoQTRmNFCAspQY
-TravelÊóÖÊ∏∏È¢ëÈÅì,tvbus://4SXMb4Hb1m2LFCnoJoWk9YWW3cFa9WZ8hyXGAQzZ4avNYM6Ytf
-FOX‰ΩìËÇ≤1Âè∞,tvbus://4DwEnhCvoTMrRNnFLsGzMouSsT5dxLYSBJNpnPqv3spnTbBMsS
-FOX‰ΩìËÇ≤2Âè∞,tvbus://3aQzPupUywNU7KD5jSYZSiXxWwRBjBxqQwNtLbTYrvyLzCWDpz
-FOX‰ΩìËÇ≤3Âè∞,tvbus://4KgCEBRhXoZkHyPwacEnz3jjNZjFm44ZS8rupWuiNxkLuHkARF
-ElevenËøêÂä®Âè∞1,tvbus://36cmtXLbTXAPd8TQvVS7zavrdjDJnFxpkeiiP2ViKmzXNZd48j
-ZÈ¢ëÈÅì,tvbus://3eMmtp7mssRP2uqm9Y43ZpjSykTSdPp8Kka1Rc3eXSN66XtuHU
-SportRacingHD,tvbus://4FgrKwnhH8bGbbczECros1VQGaQGrRzCUDVYjP9mCGCg5hajyc
-FightSports,tvbus://4ZZFRmbNXbgfxEYvyUmJkzRUdRbj43PeqvGcxrHb2VVWEBV7G7
-ElevenËøêÂä®Âè∞2,tvbus://3LEibA7DhRR6ZFj8SWZvmU6bERJ3mdPvKXH4yaN9G2kKV45qQo
-NHKWorldHD,tvbus://4aDJZQ6ZxoSQyof3pt9WBCtpqcA9BuxjwU2gouHwT4vSTuvGR9
-ÁæéÂõΩÈ´òÂ∞îÂ§´ÁêÉ,tvbus://4ibpkueumH3ZBUjbBUuDs6czLaNNbGdMz956yHdg7gfYQuScuH
-ÂçöÊñØÈ´òÁêÉ1,tvbus://3aiKw7hChYFyVEWBqBss8HBRt1Nn9yqCgH55bTgiJvRkhNzoe7
-ÂçöÊñØÈ´òÁêÉ‰∫åÂè∞,tvbus://3B4xfHMzr9HfjNPAGDRVeMRjWiTK6z3eMkSopWi2N6p3Z8H5oA
-ÂçöÊñØÁΩëÁêÉ,tvbus://3rnBQYyorRQVCoRfbq5RsPnK22qqHkBL7RUdnunSRq34wnoeu3
-ÂçöÊñØËøêÂä®1Âè∞,tvbus://4Ukk5A6ZHAWSEmjgF4seTBZJqTSU7bp7kxhG6sw96c6E15xv66
-ÂçöÊñØËøêÂä®II,tvbus://4GhxsyGbxJ9kf2UqX3sLevucp7pjrZJvSvHjvUP3T49oPapmEn
-ÈùñÂ§©Âç°ÈÄöÂè∞,tvbus://4ACoyHPeaCVVfSJFtkVrom3Tapz4E4CExe5x9uosxBmTwq4u4d
-ÈùñÊ¥ãÂç°ÈÄöÂè∞,tvbus://3U8U8T2Lj525RXnDyHXb71CcEmHJaaKQdcJ8ibSZGbdwX1taRF
-BOOMERANG,tvbus://4aqKpzCPNCbKDJacc1SPgH8R6hqktHoM9EoNy1TESaLcFC15Rc
-ÈùñÂ§©Êò†Áîª,tvbus://4ryY7igfdVhUZPLc4fSoGWBQLJoHQDR5zuDnHJqH5DTdRpdoUM
-Áà±ÊîæÂä®Êº´,tvbus://3kzgb1rt2dhaZAwDhwH8YWpLPWcHQzpqJiZjHLca8HwT9vZznY
-ÊõºËø™Êó•Êú¨Âè∞,tvbus://4CjhbjJYWDv5CGE1L9NWYLYpHuvdCQJs4WjK91vMZvdwRciQwV
-Dreamworks,tvbus://4iTBMXGz8RThGU9Qx4qsTgrTSu7uBX7MRa6MxbvVi6Vza8iBFw
-AnimaxHD,tvbus://4idbffCB1CULMzz5XoGooN79VSEtNmzXU7hg3TpuoE8g8eVAuC
-MoMo‰∫≤Â≠êÂè∞,tvbus://3yz2v4zhZVvVx9s7RGSUP6aw7vcBurAEt2TZKoJ67jcDmkVN2s
-CNÂç°ÈÄö,tvbus://3D7obprEsCCbb4dquHprS6XwiPYCrmTK5b34mkV9BNo3aQmkSU
-‰∏úÊ£ÆÂπºÂπº,tvbus://3yncY8WD3atbcESaH6U5aPfGSzYNCr4MiMEqUsvasMnT3BsFmr
-Ëø™Â£´Â∞ºÂç°ÈÄö,tvbus://3bHSsAjCouCXjaX9dRTaBFcqKAaGCg2JqVessy1aNy57CrWQE6
-Âá§Âá∞ËµÑËÆØÂè∞,tvbus://3UPaohTFVidPLqb8GwcdMAC1ffiQBzJR9q96VKK6r8GirrBTdN
-Âá§Âá∞ËµÑËÆØÂè∞,tvbus://4WkULYaUAsau3h3JkHru6As6DEQbtroqyKq36Lc5rdPPRmHq8y
-Âá§Âá∞‰∏≠ÊñáÂè∞,tvbus://4d8iuaGxznNoikWD7CYy9DAm4eNASAXPsUV85GhnVWBCPj68fJ
-Âá§Âá∞È¶ôÊ∏Ø,tvbus://3dtLpGG8LK1WNF7Htbnj7rmXyDJLkrLFAzktFEWEE1srm9vckR
-Êæ≥Èó®Ëé≤Ëä±Âè∞,tvbus://369iK6isZXPW55qp3Cd5aWVuAg7d9FfmFBk3dG3KDQeSrv6h1z
-VIU,tvbus://4RP8GP9cMYxgCrLNnHbXyp3T9WPdkv4ASF5QFVZNm8WBdozteE
-ÊúâÁ∫øÊñ∞Èóª,tvbus://4bbEWvEYsKKvLWJrBfMQMkydgoRRKYfNdFzc2Fqvdn8rrTDYgn
-J5,tvbus://49SE9MNdt9WUdJGM4en6Q5NaHbsoTnT7PLMwD4vRz7UPypAqRZ
-Áø°Áø†Âè∞,tvbus://4r9sKX2HWCY2qzkbG322dSEMsZYJcYss2YumBs8BLC4adKRKiP
-TVBÊòéÁè†,tvbus://4cWK3ABLenQ22ehNP6DRZAAss1noyNgzZmTMyve5tdnAexSqYR
-J2,tvbus://468JcTAcWBJgW9Fg1WEjSYDa48QmwALmQFZbRkY7hNHM9gtab8
-‰∫íÂä®Êñ∞ÈóªÂè∞,tvbus://4QqNAgAaeL3Je2rcqq8kAmfdQz6QmnCGRvZWjqAxWwK2tjVJ2g
-RK31,tvbus://34CmWEpRNkZbXJ7jZB485KJ2bdhG7AK3dMMd2vA8HxxmPghdwe
-RK32,tvbus://4Kvi3WQXheuUn7P47F9XVLiAxqt5w9kcJAkbx5q8p9Adcx371b
-VIUSIX,tvbus://3CvyABpreBSJ52R6vW76dRun5VBWwrDJRoVMCQmeQ6jX2VHhsz
-ÊúâÁ∫øË¥¢ÁªèÂè∞,tvbus://3Gdn4HVPBLnR6FhGsamWyV56YKLCi5ixvz68fepB35VofqGdZW
-ÊúâÁ∫ø18Âè∞,tvbus://3wCVtNAb829eoerFPmp9vmG4BXNRmnCWAVrdAy9RjM6stivCUz
-ÊúâÁ∫ø603È´òÊ∏Ö,tvbus://44fCSAs4eeshvev4mY2hL734yxGVYzfWTLS4L7Ghqssz3CD8S2
-ÊúâÁ∫øÁîµÂΩ±‰∏ÄÂè∞,tvbus://3HvE6BQHNZvF3nkzXShJ8xtXyL7RkRaH3xTuSR71AKd43WpDMG
-ÊúâÁ∫øÂ®±‰πêÂè∞,tvbus://3Skg3f4LTttm87ft55U6tXL4tWGwqqZH9s7Su4UHaWz4YHvvdz
-ÊúâÁ∫ø‰ΩìËÇ≤Âè∞,tvbus://3onccR5fop7TS9jKNdD6YPwa6exTKdGL9tn6Lsf41Zp2SgSxvM
-Ê∞ëËßÜÂè∞ÊπæÂè∞,tvbus://4ebHqwg2y4D23GMmD5KEvVMSASQmbFjC83Vg94gcm4dVVRr7VW
-Ê∞ëËßÜÁ¨¨‰∏ÄÂè∞,tvbus://3U7gJn327esCAubMhLRB5BoNNpvYz9gPQzEeqoFenWKBjjxQPr
-Ê∞ëËßÜHD,tvbus://3NGfmTfebYmD3hTwohyC1hB7iSPmk74czdY9YiGrdr7yrSDAP9
-Ê∞ëËßÜHD,tvbus://324cgLbBr6nkLa2cVy6EetWyiPPmeLPgszncRwLXbXY1oz59W9
-Âè∞ËßÜHD,tvbus://4Wz2Au9wK2C2qqehDxKUcqfX7MgSjHVB4U7nyfZigo7QE8H11D
-Âè∞ËßÜË¥¢Áªè,tvbus://4A2Ei45x6EYA9U7hpzMdeLd2JmQxgJSYsYrbACLzyP57drW4xb
-Âè∞ËßÜÊñ∞Èóª,tvbus://3eXZybLwc4n2z56bmztQ5MBi4t9JxTfKPwQKTSWi3XYhmZGGTg
-‰∏≠ËßÜHD,tvbus://4YqKYNnSrxUYE88BFnghXhDrwsEdZh8pFduYkbZJSyyA2JGJnF
-‰∏≠ËßÜÊñ∞Èóª,tvbus://4XxhYLeV2X8meLWMUojYWtChmW2zH7UHCc9Z7WbweU1ve8in93
-‰∏≠ËßÜÁ≤æÂΩ©,tvbus://4WiNfF9MsLRUe64zvcjHCSbjMikCtcUB6uiJRjuL4pHxwPwMy8
-‰∏≠ËßÜÁªèÂÖ∏Âè∞,tvbus://4cEi8pqYV5qQK2mtwneFTZxsSPmdBJ5pCJ1THZbQPtktWf4BSA
-ÂçéËßÜHD,tvbus://3ftj7bG2TdmSc9oBZ5xhnwhGoFrk8Nd4aGrZHEXJ2EXEm5jrHx
-ÂçéËßÜÊïôËÇ≤,tvbus://4aotJKz7fzNXohkcUBQaPUu6kXFdfmBJTwV51wx13TnQdiyPjL
-ÂÖ¨ËßÜHD,tvbus://3JwaQSL4ehDR4f6jRQGDZHekCw8snVdRs1Qjc5EEvxRzrYyyYF
-ÂÖ¨ËßÜ2HD,tvbus://4Nz5wU5LerCp7eHn8qEDa4wNt9sz3v2LG6X9Fa4LisDLQxr64E
-ÂÖ¨ËßÜ3HD,tvbus://3anuFDfftsT2CtRG1q6twGTzneJC1BupZigBVBakqZ3gZFQv3o
-Â§ßÁà±ÁîµËßÜ2,tvbus://3HuDT4ZSU7kfwe4FghrCktLwCSSKfepSgwAHoh95rcg3DyXnGf
-Â§ßÁà±ÁîµËßÜÂè∞,tvbus://3rACfy3N4NnGPiwkTUuTM6UhTkQSwTDCzKpnyuGQ8fCX6vAcxp
-Â•ΩÊ∂àÊÅØ,tvbus://4VpLHUP7zSqRe7dKy2M1EGMNYxz3LQ53wBN3yEmQHsmdTprd3T
-Â•ΩÊ∂àÊÅØ2Âè∞,tvbus://3FQvdv1Sunc7AoGmbq1W3S43ymkyebtb5rWwxgnoVC3bn2B11X
-Âè∞ËßÜÁªºÂêà,tvbus://4A59kMgWVgDDcSjE2Hb6v2zRpggj3Y9TgzsE9oBv7sD2LfkvaW
-ÂÆ¢ÂÆ∂ÁîµËßÜ,tvbus://3jpo5mdeWZHncCpC62FtXqd1iADL74unrZv17Utpgau5d4hQhN
-ÂéüÊ∞ëÂè∞,tvbus://4Ad8939QgS5G95G5ARQEQ9uzBY2ZyxDCQMt7VQdWFHQjZRPof4
-ETtodayÁªºÂêàHD,tvbus://3HrGxWzgWeKpn7RvuqrUNwtypMEBDVXdt7Vo5u4Tzhb9BPCPAQ
-Â£πÁîµËßÜÊñ∞ÈóªÂè∞,tvbus://3ZHijAP2hUCD52UtERv5UP3Bo3Y9bZR1Wbnu5crov2xuKEDyf4
-Â£πÁîµÂΩ±HD,tvbus://4oS39KQSTkyYRj4ZVcTJew3ufdMd4X1Y12Q8GDZ1KxbGj12C2j
-Â£πÁîµËßÜÁªºÂêàÂè∞,tvbus://3p3whpbQRZ9ATUezddN9tPF81BdQn5e4t8ebAFtvBQBXNfijAj
-ÂØ∞ÂÆáÊñ∞ÈóªÂè∞,tvbus://3Wtc99p72Qk7PiR3gW1ruGoJMtTVLkgqWSc7UGmMgKXj4MS1WK
-ÂØ∞ÂÆáÊñ∞Èóª‰∫åÂè∞,tvbus://4PW3vQMk3QLC6oN48mtcaArMnaLxj8B2sUAx8raBpCAJsWn6J5
-ÂØ∞ÂÆáÁªºÂêà,tvbus://4PgyGWhz7eE2TySSEqzecSunBVD9HdCcbeJwTL9K1bfUXTTk89
-Âπ¥‰ª£Êñ∞Èóª,tvbus://4R1EhyD4HYfkkpd5mY3YPqpZ4n9TTTbSEr3FAY8eEiauLNy1nm
-Âπ¥‰ª£Êñ∞Èóª,tvbus://3Yzmih5hWMArAj6fykNf8VvC2gbtJ5rRDGVkVttceqv2Lq6HWc
-‰∏úÊ£ÆÊñ∞Èóª,tvbus://3zSXi8gdfAXboMUUc7s9WynFNR2o2vRP8unQJcCWdsneHTYVAZ
-‰∏úÊ£ÆÊñ∞Èóª,tvbus://4iwQJubMa5doF9Ja6aGNxRUHUTG5VK4V5ttbTyaVjhdBQexBAz
-‰∏úÊ£ÆÊñ∞Èóª,tvbus://4CFjFvWZxhmFa1K3SzJtgQbh6L2QukQZcjMGwzTV5tiMAogthK
-‰∏≠Â§©Êñ∞Èóª,tvbus://46tyB7qQjV1uiVkKFgDhThiF5gmvCd62p2zbQ87Cr4RFLLUBX7
-‰∏≠Â§©Êñ∞Èóª,tvbus://3t2Yr9evJWUsHm9mc6X8vC5g3ApxQ8zWTgKHCu2fcN9iXiipDt
-‰∏≠Â§©Êñ∞Èóª,tvbus://3eRaviJkVqt9SZNBckdckEuQ43Nq59RBq3jAxuvVE1HnHuF4CW
-Ê∞ëËßÜÊñ∞Èóª,tvbus://3ZYsFmQYL65PFmr6ToTJMk8yuP9ghG1oMoDS7ehdp1hX2UyRVR
-Ê∞ëËßÜÊñ∞Èóª,tvbus://37yvPohrVgi2pMJqeW1KKaadbhbqhNpETgdBneqWtXMwSBi6dr
-‰∏âÁ´ãÊñ∞Èóª,tvbus://3RWVXJXYpRpzEHW9hbRVJUxVW47ZBUomztJUTQvcUmnjWsa412
-‰∏âÁ´ãÊñ∞Èóª,tvbus://3rGK5JgRzszaqap33Pso9enA57iXbwmfEjjWbrRkTPZis6hPSU
-TVBSÊñ∞Èóª,tvbus://3C4ET5TJcYderUx8ETZ5hgbnimaktU6o4EV7NNVGXZH4q5PQM4
-TVBSÊñ∞Èóª,tvbus://4Vmdc66XMbqFob4KzfdFgJPzBcogSfTesxSK74CaKihTdKiBs6
-TVBS,tvbus://3k6p1kQsSsxT9oj5si2P4iw4hz6mY9YD3RbELbJP6kfHTkKB6n
-TVBS,tvbus://4KyoHWSBPDu6UroLjR5aLLfcxyPqSkZDjTf3YHBrfyDrKay7JK
-‰∏úÊ£ÆË¥¢Áªè,tvbus://4CbyTLxVwTSMjn78w1hoFXV7bjWXhm26AcT3YGh7w2oFvd9Ed9
-‰∏úÊ£ÆË¥¢Áªè,tvbus://4Wu3XYjqbL1SBQGEBKvuLkjfuVbDzckXcuh7CHmPWafz4fV3qq
-ÈùûÂá°ÂïÜ‰∏öÂè∞,tvbus://3tWP4V5oztKxtAYAasUa4bgnifSYbKXqgRR1VqRAeesQFjtXFD
-ÈùûÂá°Êñ∞Èóª,tvbus://4EBpcRMrMbYzYJPae2hDZe2MBQSzALm8FawqFDBPA9hGcUVaLP
-‰∏âÁ´ãË¥¢Áªè,tvbus://453TmKB9RcjKGBRmY1phXvzQbFhH3AcXrXSPhDxvu8STcer7W4
-‰∏≠Â§©ÁªºÂêà,tvbus://3gq98gwca4kTF7xPCzr5S2WLeQnQY5LuYpqRYVuyCWSb3G98Gt
-‰∏≠Â§©Â®±‰πêÂè∞,tvbus://3xbBvydKFmaQbJ3a3TDFydfV5tyPLDAuHBCaUV5sGpby9h3qJ7
-‰∏≠Â§©‰∫öÊ¥≤,tvbus://3UDaWDDeCN2wfk8jsbW6qs7aNTLuUxYXcAeKqtpVRMmmaiohTA
-‰∏úÊ£ÆË∂ÖËßÜ,tvbus://4m12964Zvx9bzFiFjKauXNRP7uMvsQNyKoWGxugJSgxjUkqSks
-TVBSÊ¨¢‰πêÂè∞,tvbus://3Fk6ZoytHiVjt3BL1gSxAhw8soGXyCLFLD5BsU4ZswL4ypquwF
-TVBSÊ¨¢‰πêÂè∞,tvbus://3TtLxuxSw4sGQEijvDvwL396Pzb2MwdLGsCfeCkjMDdpxEjRAJ
-Âπ¥‰ª£MUCH,tvbus://3tuctduLcxa6unQnb9LK9ygCqJKM6KmX5gVJozHfNcwRBFiBmk
-‰∏úÊ£ÆÁªºÂêà,tvbus://47KDRUkqdrMtNDyGax9MkbsGqbsM4rQ8yi4F1i3n59wahsxpVJ
-‰∏úÊ£ÆÊàèÂâß,tvbus://32LGGaQDdwwpvgKX36bt2ijMVJoKQFFrvDXbNLuP2tkm2H6NzL
-‰∏úÊ£ÆÊàèÂâß,tvbus://354tL356wBRZe2VwwN8J8xQ52dpCA31VdHcthYA1vXeKtwBikr
-‰∏úÊ£ÆÁîµÂΩ±Âè∞,tvbus://3WznTPXujunxutkiJ6eTktHcYMad6VA4knBiKnichQt5o7b1Bt
-‰∏úÊ£ÆÊ¥ãÁâáÂè∞,tvbus://4B1EYAFDtmq31rGD5BLehsfvaTjWrj9peMpttohy7r4Fu8yFLc
-ÈùñÂ§©ËÇ≤‰πê,tvbus://4RG8Kde9Xh6Q8SkbMmNoZzMXknm27VnGAPTaJ4LwqJ5VjdZ333
-Á∫¨Êù•Êó•Êú¨Âè∞,tvbus://3VT6ZATFizrdZsRmCMfymPWvH3rvwicUxovs2HkLwEKUpCRqaB
-Á∫¨Êù•Êó•Êú¨Âè∞,tvbus://4KDos9q1SNo5gcWCQdmrDvU4ma4mvVRdobk4Pr7RmMFzWFQXhW
-Á∫¨Êù•ÊàèÂâß,tvbus://4bUyuUGav5oqfhv1boLfp7Bo9BxgE8tA6y8CSRCzGYGU1FkQ6m
-Á∫¨Êù•ÊàèÂâß,tvbus://4C3YF3DRJeNrMRiW8ynykZamkEGb2n899P85RvLbeBRvtzsojr
-Á∫¨Êù•ËÇ≤‰πê,tvbus://4c5QnfYAX8tU4mW6AzLCfwYzjtqtXTZFbSY22FpWh8qTVEdd4s
-Á∫¨Êù•ËÇ≤‰πê,tvbus://44i3sJE6yWvGfvSLZhDDXt5H9V3uYwfJHX6fBNj4ipB5bB1jJg
-Á∫¨Êù•Á≤æÈáá,tvbus://3RLLqBLUbWWMBrCpKEpAhbYTjqGQDFqd3cvBG2hTwPtpJKJJe5
-Á∫¨Êù•‰ΩìËÇ≤HD,tvbus://3kCc92R9p92FbuUGPKLLJrqicRU8xPrqMEP9Rx3tiHmVWPnNeg
-Á∫¨Êù•‰ΩìËÇ≤HD,tvbus://3Y25q65qm7qFutQNhrh6GGBG2Gi5FgVA4GYG84BgZPyNWtcxhJ
-‰∏âÁ´ãÂè∞ÊπæÂè∞,tvbus://45wKaBbwtcgiVgajHmQdW3wQBztL5TCELJrsAhPQmeTYNBRWkG
-‰∏âÁ´ãÈÉΩ‰ºöÂè∞,tvbus://4qAgCNNYUCr5Sm8Af5URJzcPkZSSwFAzR4zxdFKgENa27oxRhW
-Âç´ËßÜÁîµÂΩ±Âè∞,tvbus://3VPPtoNBtDr2BMuVW3xRte5sdU7M9CFbV56WFcABMUzRmnW4jY
-ÂõΩÂÖ¥Âç´ËßÜ,tvbus://3yxYK5BQfLfXLpDHRHv2ZHm7fFpKjXGHhWGKgTZKGwnBtXVqWA
-JETÁªºÂêà,tvbus://31rLZXiuWy4nzwCp3ynKZVrtZHQqgc4sJdZVsH73Foma832rN5
-ÂÖ´Â§ßÁ¨¨‰∏Ä,tvbus://4AMCfFrbKwqwcxWNszXFPbKkXL6oGVQfPXgoe9kpxCQsbQP5BT
-ÂÖ´Â§ßÊàèÂâßÂè∞,tvbus://3Anf97gQRAQcrCTx1X8uShfc4Nby7ZRz6UiGKpx43tgWKnQuPJ
-ÂÖ´Â§ßÁªºÂêà,tvbus://4N2viu2EamWcW36VVNQ9eKn4xiq4RYKNu6hyUGBfJPvEMXMsuo
-ÂÖ´Â§ßÂ®±‰πêÂè∞,tvbus://3ufhq75xLjQEQJjUcgpaRvkLRPQH2xzTwQWTFPU4EGfPnYUZxw
-Â•ΩËé±ÂùûÁîµÂΩ±,tvbus://4V8zDuzgPLFgH2FMAGacaGJWGna6SwfVKdLyyHWurDunuZcZaD
-AXN,tvbus://4me4xswkVcKRV9tcmH6RpCraWByv6cXz4pft5oUGaLSvdmz5Gz
-Cinemax,tvbus://3ephAyYxX7pB1KTwG9AmgrYXNEvxDH9Yttkk6SPZS2ACT5yTZW
-ÈæôÁ••ÁîµÂΩ±Âè∞,tvbus://4XLLQTZKvYQFDD6wKJ5tT4bdPEvuLsNkJFanKewDX3KDQyFR6m
-Âç´ËßÜ‰∏≠ÊñáÂè∞,tvbus://3vCqvbXPSseL6MeLvHhXFyxLWNPHbi8o8Qe9hA1E3y3Ht7Z3tG
-Á∫¨Êù•ÁîµÂΩ±,tvbus://32QLw2js8fPCiU6rSP7hFfqkYsub9nNovPaCRzPTHwfJMLoPj7
-Á∫¨Êù•ÁîµÂΩ±,tvbus://48SD1wtQTRvsDKCdigPQBa12zeXtxtBScMhZinKCfFKCAT4HFk
-Á∫¨Êù•ÁªºÂêà,tvbus://3tErxE6zNuGCiacWFC9DTNgf8ApCXyYsE7XrnFLPyCwWc8kbdm
-Á∫¨Êù•ÁªºÂêà,tvbus://3jV4ULqH41TRVwyXnFH9x1cRhdw8KUoy5wAPPeJT7Czkr97R2K
-TVBÊòüÊ≤≥,tvbus://4sdtTZGe1rYo5cJkBFwsMKNbkL58BkxqWThUruQKd4KL2V8WQt
-MTV,tvbus://4QGcyS8Pos6grLPnc2dmQdgQ91TTKe64sCntQooVuWaCoiwGYw
-ÁîüÂëΩÁîµËßÜÂè∞,tvbus://3DEDy71cj6gULNvg9xdb3T2uRm9KK15NvL5KcVFk1xgGUNgBWK
-ÂçéËóèÂç´ËßÜ,tvbus://36RnfhQBASBi9iaMyUe72sQh9GPzcH2DDm7aNxvXho3js9VbWL
-ÊòüÁ©∫Âç´ËßÜ,tvbus://4QcEa5Z8g8mmVx8YEdSpLde3irANsTYbQvJz8ahRsK8eNUpDXQ
-‰∫∫Èó¥Âç´ËßÜ,tvbus://4hBzaysCqYzF8ZD4sYvggY2npHQ1Zv678dzxB3yjNpGy9NHmxU
-Êæ≥Èó®Âç´ËßÜ,tvbus://3AAKeznLg6KjALMKdz1bPogjQoDmEaaJn1atRuM2FZ4jy3zm6h
-È´òÁÇπÁªºÂêà,tvbus://4BUdAsXgjgXgez2ZtueQK4XUhacYJbHSD746j6ZyXfmaz6dRt2
-‰∏úÈ£éÂç´ËßÜ,tvbus://3GJxe38kPtvzKUkaiU2JVuTJMJdhiy5wQvuqhxE9fQ7itp6fEJ
-CinemaAction,tvbus://4VTe8sBYBnCERGWLELx8LhbndvbnCPM9BzbXQ9TeKZ4SfcYbgC
-CinemaSciFi&Horror,tvbus://4o26M9ufe7DavJgwYdtDZXB5frfqoBeViZbVqA8uomYPMGwvvd
-SkySportPremierLeagueHD,tvbus://45jKRibFoq7LNYfaeGJWkGgauF1Pd1hoDSo7876xAjXFY4TW3G
-SkySportNewsHD,tvbus://33nWQYqgZHbC9DbenHAHfZETcecEzKBVaPva5DXT6BHyKUi1Ab
-SkySportMixHD,tvbus://4jPUysnN9edHjUFY1xgcCPbXcBVotDMMjpy9yYaWWVaL6NEPxv
-SkySportMaineventHD,tvbus://36j3eHzTToR4c1Q6QQKna987gKKgEkBsT7occwYkzcim1gubHm
-SkySportGolfHD,tvbus://4hzVFTQgENxhtG9EpyxBgQRcBTBpMzcYXBVe2kPng4tdwDDvYT
-SkySportFootballHD,tvbus://3jNjnLbwFpL5CR8Vpd7qR5zJtRJhU9JjRE2TyvNnKfqRBXSn5y
-SkySportF1HD,tvbus://3nDGQE4TGUJ7Rh8Whu3dnVY9xGNC79PW9miMDb491tC24gDQYe
-SkySportCricketHD,tvbus://3VQb5AyFYX4pnKxroo93NubMA4LbxndGUnEqcbssHNTXr7poT1
-SkySportArenaHD,tvbus://31KUsrsSQweL2HWYRTjX3GQY3N49JLRkB5dnFVuUVmb8L8n2dz
-PremierSport1HD,tvbus://3HdV6h8cob14uVgdSQCjdHRFjSEsHypRraTa7ae5L3amGggsBW
-TV5Monde,tvbus://4TquF7qhDWa5Z7vWUP9PetSdnguoy8gKc3k7EBDSgakYQGyus9
-CNNInternationa,tvbus://3ZEwzZbhaJ339zJSiLXQSL4sWRzrJ1dFikK9NKtCwBqWthXYu1
-CNNInternationa,tvbus://325qWK5wBsoa36s84Qz5JdWp83x4V2yRSugFTGv3g6k33ZTXED
-BBCWORLDNEWS,tvbus://3L5bnTSz6wUKAcmzF9AnwgNRscxpwNsyS9rymMRhtKzuDhPRrV
-ChannelNewsAsiaÈ¢ëÈÅì,tvbus://4VLvtXofzCCEKT5qXBGY2ds8N9nZHojHWbzSMDgn2iL6PGTxMk
-DWTVASIEN,tvbus://2xbq5o8vEY73SX1Ef1khhap1xj323hYzQmZUWv2kLCkBJna9Fc
-CNBCAsia,tvbus://3ocyMTPXawg7PV9CMKRgic7KozrmkSYFwsy4iVzPd6oEYLFzso
-PublicNcws,tvbus://4tBchcYfgWBoJboL37Tes865rfzY699z5jiCEcBs2vtiDQoNp4
-BloombergTV,tvbus://4NZ3P7NjeuLbm2hPBa2PgvSpbyMwnDpkMGmBsda2kA6wPyuHPn
-France24,tvbus://36XN3ZuJhb5JdmPrKsFE1WMnf9DayFVP5vnuN8WRiJAWsX6mLU
-ÂçäÂ≤õÁîµËßÜ,tvbus://4KnFZbsL7QU1wC8h6eLnZa7vSyKHg6yu3PLSHMR1tFg33NVXAX
-CCTV1,tvbus://3mwPggymMkbeEb4ffDq17tDEhorJ6SuXhyjZHY5oQcAF6iWc7H
-CCTV2,tvbus://4TvSjEHVD9rUWd1iJxdJC11SvS7rUtTDzgQHvUthQg7rPBKNES
-CCTV3,tvbus://3QB74zotAgqtP8yJaeHN99LYzh8gYLz4Rvp3P9JLH56FXiZrV5
-CCTV4,tvbus://31cEznp7n1Wyaqd2L7ME5bnXJY8sVMZKsNXTJgkMDABEmCjaC5
-CCYV5,tvbus://3RQ9P28NsqUGTMvrdE85nJyu4otdDbJaFiBDm7ojZjqnkdY4Rx
-CCTV5+,tvbus://4ngekSUfvEn5hpHuTmUeGUwcf79SZEXBTTw6QF9yEZifaDrnW6
-CCTV6,tvbus://4hmq8561ne51AZND5nYY6Pq62r363vyhvZnd7Ze3b3sSXuxGjX
-CCTV7,tvbus://4kNPm6DS2iQxeGqBEh5ST97gvPsiPot3oEGG5SuAMHW88EPV8x
-CCTV8,tvbus://3BhBGTx4P5GSMvGLoaRyxzf1ZxVN61xA8N1AF6vwo3bFhWcY2N
-CCTV9,tvbus://3WcVrR5GhhokxZMhUHNxAK1nfL7uBr2mrVEmtBf4qKWkV9xbAU
-CCTV10,tvbus://3uvKkwGWvodFJtJFKxxqfG1nve29DCyYpyVNvQPoooWLzHvqDE
-CCTV11,tvbus://3Qa4Ck7SPkmoBh3yHe14FWAm3Yc4mZU9if3zrtBaGbXgWdNtRQ
-CCTV12,tvbus://4ZRbfFTkWhyj3QejtLhMYo8NDVd75anosqT3AW2MVRsDw2YP42
-CCTV13,tvbus://4mfyUv4GHT4ETCNzcAyD8PQXCXTw28yHekeAJHsaPySf17ezWr
-CCTV14,tvbus://4QqXp7gxv2TYKtE2kqcN2VUY21qaAAu2TLbt9J41G15ru2s75B
-CCTV15,tvbus://3hrsvgnRvpzCjP6UGSzd7Y2U38vqTPfpcKU5sj4pqZjB8EDHpk
-Âåó‰∫¨Âç´ËßÜ,tvbus://4YyKAUpGiwXTYpW1qGwnZJz3TSzJqzBNfcg4xh7AVWb1s9pjdU
-Â±±‰∏úÂç´ËßÜ,tvbus://4Hh11o9YHoxZSiqEDt4LGgyxPos2xbm9csse2JYQnvsSMceB9y
-ÊπñÂçóÂç´ËßÜ,tvbus://32VjUBFcJX2xHM9U5GfiychgPjmZL2iRostHoZQQAFE9RPuGuR
-Ê±üËãèÂç´ËßÜ,tvbus://3AhxtHFs89uz1qK1SHriD9x3AFyXb6fKrtA4LTfu3refU4jA4y
-ÊµôÊ±üÂç´ËßÜ,tvbus://3oobsQJEw2346amJByAfxHVtms9tPpn9QeVj745FmsH3d7748W
-Êæ≥‰∫öÂç´ËßÜ,tvbus://3DvYgG5w8MiGW6ANDB9F4qNUTzRUiP9bppmBvCmvfnBzGsMz31
-ÂπøË•øÂç´ËßÜ,tvbus://3Ux7odKq5hfywbM7cQ2iHRxn8PYAx84FxXgb5aLeQBvY6e5zxy
-Ê∑±Âú≥Âç´ËßÜ,tvbus://3pMAm5gQFEFxMy3Mmn3RD2NCPUiYqBiUm2v31QAviXyJD7SHEW
-Âπø‰∏úÂç´ËßÜ,tvbus://4eVxZ1JTGB3ePedp3BEAGXCvq27d9nRTCnQJptVGeGd4Mfb3jM
-Âπø‰∏ú‰ΩìËÇ≤Âè∞,tvbus://3DuYS7s374msVPN2qarErdRz39Mug6V7Esn7zCUKs3DQWaxAy5
-Áè†Ê±üÂè∞,tvbus://3EaFUrqzsCqma4sdfV6Z8mrMKDyVCdGzFiiWYYEfmWnaNzTokJ
-ÂÆâÂæΩÂç´ËßÜ,tvbus://49BF1JvbfFLMzeqqzqBjCkBnHx7Wm1DDFbNbpGhmsc4k65YzWr
-‰∏úÊñπÂç´ËßÜ,tvbus://4AwnGUTraKcY9hivDzbDdM6meCNpv4THiamHPJXm7yk4fZ28A2
-Ê±üË•øÂç´ËßÜ,tvbus://3cCWrCZPVzfM1gvKgLyJH7bQry686eT9MKHeA1hpeb2MPK9R1e
-Ê≤≥ÂçóÂç´ËßÜ,tvbus://3U5HShQe9u3XTA9z72E4QzJkAuZT9x2eLouhJi5vk94xco64vN
-‰∏≠ÂçéÂç´ËßÜ,tvbus://3Sr7QwFmZBaM7XirZKq7s9SCieeDGMd3Mk7KFCH1XjGZwcWsGv
-‰∏ÄÊú¨ÈÅì,tvbus://42uCnhY4Je6SS2ERF1aqDrHjSaG8FEV1KWQ92PBrZRJJLfKmsE
-‰∫åÊú¨ÈÅì,tvbus://3JgnK64F1fwQxcSQRa9dhxTosEwckuDy9GSZKcrmixGc8aZTnL
-‰∏âÊú¨ÈÅì,tvbus://34giMrmHiPmNZUGyoaW3CVgVSMKojoYCLZ12iDFT5vbcGveBhc
-ÂõõÊú¨ÈÅì,tvbus://4Ej4rezWwoCYCYF9jJKmdYU2eE9hEMi4bjJr2nbov6e5bXfFFU
-‰∫îÊú¨ÈÅì,tvbus://44Kornbphiujc5UM7Hb3AU7mbmU2CbeFXVKzHRw4oQc7Mrod2F
-ÂΩ©ËôπKÈ¢ëÈÅì,tvbus://4FEn48X7naimzSazxvFQ354JqLVavQSDEvx9a8HWuQBB3JHTJe
-ÂÖ≠Êú¨ÈÅì,tvbus://3uN3nrKHqKVkeYuGPoZ235dvXLuAZ2pR6oiaURetczzoLYYdQ8
-Ê¨ßÁæé‰∏Ä,tvbus://3bPZDMTLcBGiPbZ1PB7Hid2fDthhaGN86X4X2Zqf9hqkbpLBki
-Ê¨ßÁæé‰∫å,tvbus://39oNau1fjHyxz32kwFJgK35PQ2thQuWQUXzY81bCevmEWxSUmS
-LOOKHD,tvbus://4BVfcfk8gM5f5gcfbNncYCpQKfZh7QjPKpARxXZKtskU8dXg3o
-È¶ôËçâÂ§©ÈÅì,tvbus://3rhcxboSzbSbJPf95BgHZ15u5uGDQsSaYDbWfvrD9tDsJG2pJL
-HAPPY,tvbus://4YPfReKmsMJKAhBVKE8HRK6c1MoApxEN9tWE3MwSjnUjnTDdzr
-ÊÉäËâ≥Âè∞,tvbus://4bcebByPb9fkZiamtk4yV118nxANoNkYs74QBFaizTKS6JFyzF
-ÊΩòÊúµÊãâÂÆåÁæéÂè∞,tvbus://4sZQVxzLZ7h5MME2LiHtYikMirwxbEgsqGByTbsuAU8DuG7jSd
-ÊΩòÊúµÊãâÁ≤âÁ∫¢Âè∞,tvbus://32mVs63sZ9kWyLZFzFssZm1K8Zi8ExyLtxYVASQPfy3eQSMWKU
-HOT,tvbus://3PqHscmgh8C1Hs4GFpoENMWk56GMGNuNb2XCZEL6qSUYMQDjMY
-ÊùæËßÜ1Âè∞,tvbus://3xZMiJ2FpmofgvL6ceusPws7GxhV2DfkQK66WeStbQ9crQAyyp
-ÊùæËßÜ2Âè∞,tvbus://37i5MicUDXuouX1dxwMomRmdV6NtJ1wAJUQxC33eUoCRtJXyKb
-ÊùæËßÜ3Âè∞,tvbus://3si8xeYUkFKDHLZ8sLTYja9h6JuXKSRAhvgXDgqCCfTigq28Mt
-Â§ßÂ≠¶Â•≥Êè¥‰∫§Â¶π,tvbus://48t3D62Ec18yXUEn6LXZDT2ctrjKduS2oENXmLs1ktzrniuDFY
-PLAYBOYHD,tvbus://41NVhe4ZQsfgUjYdceLMkcCLMK7LwRNP2NusLH2fR6c9CFpdRf
-È¶ôËïâÂè∞,tvbus://3gcromGsGRZp3zSjHtPLZ4feEMpVj766bLpwzSuy271Y5nzJyk
-ÂΩ©ËôπÁîµÂΩ±,tvbus://4UXYGmhaVHoFxzNQyJK1w6esSMP4Jff9xR5gU2eYUq6HeiWrkp
-VENUS,tvbus://4pHCy1bLucGjgXqPZcFUgeo38MjwXMR7v91cey8DNhFcgkeXQv
-ÂΩ©ËôπEÂè∞,tvbus://4BVJqeoPt9Z2Siu5Yu4peh8WCzxzNe2xcTzpxFFsN2SBfJzBio
-JSTARÊûÅÈôêÂè∞,tvbus://4YLeJUQrUNZmxGFLXCUwfyCG76knBfnkGPAz4SVy9kAEjdZsK3
-KMPÈ¢ëÈÅì,tvbus://4nC6ekPfLurpAWAnqcbVEjVanQabsj7A5x8pQJLMrr4p4wUAtr
-ÂÅöÁà±ÁâπÊïôÁè≠,tvbus://4rsxtTobPTnBTuyCQXSuwHP6JuXNRnHJ7MBXGtGgnk1yreFWCH
-Â•∂Â•∂ÊåâÊë©Â∫ó,tvbus://4qea1DS9wEFh4ztDKCPRBHPcku8eJnhhifiFgvVDZgzPLaNCmm
-‰∫∫Â¶ª‰∏ç‰º¶,tvbus://3JpLSLdVs3FjjMYvJfMPzScdWtq5sVr5bN7eLnVmLbWjMWGTwB
-Ëøë‰∫≤Áõ∏Âß¶,tvbus://3zQQRj6JD756Fu7yThHuqQfF1cSmTWmKJ7psRxgUGT7svVqX6U
-ÂçàÂ§úËìù,tvbus://4hW35iiqCCtjUiR67gXVSRQvHaxW2SpQ9Pqa8Mh7yy25t3cuiJ
-ÂΩ©ËôπÈÄöÈÅì,tvbus://4EXuoLxvFP8pUmVNQUWWTokuQXXMF8TgQjYNSMmfktSjtjDiPp
-KBS1,tvbus://3LfWvoXSy6fxMBcoiFdPULRVLvBB5v7JDcZJtFQ1hmL1aitp5k
-KBS2,tvbus://3XaipG5EPYge86g9odBQ3XrUqj3BAZmoH1dVNBhvkT7pTk2LEm
-SBS,tvbus://41RMRtni7hATrsszQ27YTRt9Fka9Arcu85ArhuEWtK25R4aPDb
-MBC,tvbus://41bd56Ryt5do11pj2F5pJvYZzHsRNx5qK3FPwy5FWHY9zywH6Z
-???,tvbus://4CuoifsEQLJ8rvT8L6guwNd1T8so8VSquoNZTpoyf7X2GyNaFt
-EBS1,tvbus://3siu6wFspiaCXdWg4CKYLHLAvUbK8CYUGEL5d4WWDFkCL42Q7F
-MBCSPORT,tvbus://4mEwKcgMRndsAbu5uCLqNMGeHr18dg7dy5hXJuYoKHvJsN4mfi
-JTBC??,tvbus://3UncJ8wGKMWA96CCGsuxVsBku33PM5txPHFGXC4vstVjLziQwn
-KBCDRAMA,tvbus://4Cofb7qvCHXaUM8yhkFxYoE8yLt9pga3E9bFftG8RuMUiuDWkz
-MBCDRAMA,tvbus://3QgMZkX1GF3eXeLibLrU1msQCk731GWVnJY2zg3r8vxfwJCvmh
-NHKÁ∑èÂêà,tvbus://3FTzXBMu3hmtWqU2XoRz8JYqVsRcUjLj52K8yDtQeNQLReyPuC
-MBSÊØéÊó•ÊîæÈÄÅ,tvbus://3iuarVm3CtqctxozpNCj3wasSmrLj31jWNiu8ZKSkEEUmtNCqr
-ABC„ÉÜ„É¨„Éì,tvbus://3ihKZtGT4car51TZuKTy4Fk849wuBZPJH8sk8MuHsoHjvaNdfb
-Ë™≠Â£≤„ÉÜ„É¨„Éì,tvbus://35AnUiSE15YV8rf3FE4xsMHx1ixxX1yqNuP23cXd4DA3bE5rQ1
-NHKBS1,tvbus://3ck2ktrV66jKQbu4Zb9fpUoqWq8cE5r9XPPgtALDpQaX9xqBnb
-BSTBS,tvbus://4arkpBZTvDSwjCjZu4Pyb2NPkxqaUhmzC9nzNK7W8YjVwbRA4G
-WOWOW„É©„Ç§„Éñ,tvbus://4kmTi56jqzbc6xVHFEiwABThs7Fzfstykp4sRZnbhSr6EBxfqx
-WOWOW„Ç∑„Éç„Éû,tvbus://3cE4J2hLBSR7jv9zFkQEVzS9bcxKo2YQpBYvaLNAhNFFYNs9yU
-„Çπ„Çø„Éº„ÉÅ„É£„É≥„Éç,tvbus://3UJVhyJBygpHh77hD7QYbNGtNHYs3EGMoZBeRM8s1Ts5uo3zub
-TBS,tvbus://3T1VwzvvEsuZmABBaduNudtXwYZJHSUY8Qtou2AvXjQGmQ7EZn
-Èñ¢Ë•ø„ÉÜ„É¨„Éì,tvbus://4YnbF9DVXY2U6eBc8M3h1E6G1ERsHMog3uFnq9bzyfdWtVRdym
-„ÉÜ„É¨„Éì‰∏ú‰∫¨,tvbus://4KCh2JRRUyKZz5uhrwrWpjSzvETr1fGtKf1LLn4acA4xFU7pLU
-WOWOW„Éó„É©„Ç§„É†,tvbus://49cWz7fbTYsiLABrpZvEQBJKxXB12kUQsdJTwDHXY8ee87i6XP
-BSÊúùÊó•,tvbus://36PT8si22DWb7DTAQvA1ptoGKns6GpspfHZ9Lro4ijmeMCvgvt
-JSPORTS1,tvbus://3ZDBLJvHgos8YD7xGp3yQQvqWhGBUwbiZX5S68QZYcCE4a3Uym
-JSPORTS2,tvbus://3FTzXBMu3hmtWqU2XoRz8JYqVsRcUjLj52K8yDtQeNQLReyPuC
-JSPORTS3,tvbus://4fCKB47coyeVPmaF4goTNBwRGAFMMpx4sx4PrBGd1hT9GdL8Sc
-JSPORTS4,tvbus://4gtUMB4KmHnWFDjuiZMNuHTSKERWm2v59WADmSKqymMyFTmGqy
-„Ç¢„Éã„Éû„É´„Éó„É©„Éç„ÉÉ„Éà,tvbus://3wo7k4mj3LD7GgaPeYPaLPEBJHfQ6e1y3tDQi6f4sUT7tgnhFU
-Ôº¢Ôº≥Èíì„Çä„Éì„Ç∏„Éß„É≥,tvbus://43WxV3SGgM2wGjDRNyLzkFw1iv1746ZUUFXAAGzEFYiT6bYzW7
+Ù‰¥‰Ã®,http://202.61.135.139/ubtv.php?id=390
+Ù‰¥‰Ã®1,http://202.61.135.139/ubtv.php?id=429
+Ù‰¥‰Ã®2,http://202.61.135.139/ubtv.php?id=1084
+J2,http://202.61.135.139/ubtv.php?id=392
+j2Ã®,http://202.61.135.139/ubtv.php?id=392
+√˜÷ÈÃ®,http://202.61.135.139/ubtv.php?id=391
+Œﬁœﬂ≤∆æ≠,http://202.61.135.139/ubtv.php?id=393
+Œﬁœﬂ–¬Œ≈1,http://202.61.135.139/ubtv.php?id=394
+Œﬁœﬂ–¬Œ≈2,http://202.61.135.139/ubtv.php?id=45
+”–œﬂ”È¿÷,http://202.61.135.139/ubtv.php?id=360
+”–œﬂ–¬Œ≈,http://202.61.135.139/ubtv.php?id=395
+”–œﬂµÁ”∞Ã®,http://202.61.135.139/ubtv.php?id=354
+NOW–¬Œ≈,http://202.61.135.139/ubtv.php?id=396
+NOW÷±≤•,http://202.61.135.139/ubtv.php?id=400
+TVB–«∫”Ã®,http://202.61.135.139/ubtv.php?id=1079
+TVBæ≠µ‰Ã®,http://202.61.135.139/ubtv.php?id=1083
+”–œﬂÃÂ”˝1,http://202.61.135.139/ubtv.php?id=401
+”–œﬂÃÂ”˝2,http://202.61.135.139/ubtv.php?id=356
+18Ã®,http://202.61.135.139/ubtv.php?id=44
+RTHK31,http://202.61.135.139/ubtv.php?id=353
+RTHK32,http://202.61.135.139/ubtv.php?id=397
+ViUtv,http://202.61.135.139/ubtv.php?id=72
+œ„∏€ø™µÁ ”,http://202.61.135.139/ubtv.php?id=17
+–«Œ¿”È¿÷Ã®,http://202.61.135.139/ubtv.php?id=89
+Œ¿ ”µÁ”∞,http://202.61.135.139/ubtv.php?id=93
+–«Œ¿µÁ”∞,http://202.61.135.139/ubtv.php?id=496
+∑ÔªÀ◊ —∂,http://202.61.135.139/ubtv.php?id=1080
+thrill,http://202.61.135.139/ubtv.php?id=18
+∑ÔªÀµÁ”∞,http://202.61.135.139/ubtv.php?id=19
+»˝¡¢Ã®ÕÂÃ®,http://202.61.135.139/ubtv.php?id=21
+∑ÔªÀ◊ —∂,http://202.61.135.139/ubtv.php?id=359
+∑ÔªÀ÷–Œƒ,http://202.61.135.139/ubtv.php?id=357
+∑ÔªÀœ„∏€,http://202.61.135.139/ubtv.php?id=358
+œ„∏€Œ¿ ”,http://202.61.135.139/ubtv.php?id=399
+–¬ ±¥˙Œ¬∏Áª™,http://202.61.135.139/ubtv.php?id=1032
+–¬ ±¥˙∂‡¬◊∂‡2,http://202.61.135.139/ubtv.php?id=1033
+±¨π»Ã®,http://202.61.135.139/ubtv.php?id=152
+Œ¿ ”ø® ΩÃ®,http://202.61.135.139/ubtv.php?id=1085
+”∞√‘ ˝ŒªµÁ”∞,http://202.61.135.139/ubtv.php?id=497
+√¿—«µÁ”∞Ã®,http://202.61.135.139/ubtv.php?id=375
+∞ƒ√≈¡´ª®,http://202.61.135.139/ubtv.php?id=70
+∞ƒ ”∆œ”Ô,http://202.61.135.139/ubtv.php?id=24
+∞ƒ√≈Œ¿–«,http://202.61.135.139/ubtv.php?id=29
+Ã® ”,http://202.61.135.139/ubtv.php?id=27
+Ã® ”,http://202.61.135.139/ubtv.php?id=326
+Ã® ”–¬Œ≈,http://202.61.135.139/ubtv.php?id=1
+Ã® ”◊€∫œ,http://202.61.135.139/ubtv.php?id=309
+Ã® ”≤∆æ≠,http://202.61.135.139/ubtv.php?id=300
+√Ò ”,http://202.61.135.139/ubtv.php?id=26
+√Ò ”,http://202.61.135.139/ubtv.php?id=336
+√Ò ”–¬Œ≈Ã®,http://202.61.135.139/ubtv.php?id=13
+√Ò ”◊€“’,http://202.61.135.139/ubtv.php?id=98
+√Ò ”µ⁄“ªÃ®,http://202.61.135.139/ubtv.php?id=34
+√Ò ”Ã®ÕÂÃ®,http://202.61.135.139/ubtv.php?id=36
+√Ò ””∞æÁ,http://202.61.135.139/ubtv.php?id=1023
+√Ò ”¬√”Œ,http://202.61.135.139/ubtv.php?id=78
+ª™ ”,http://202.61.135.139/ubtv.php?id=32
+ª™ ”,http://202.61.135.139/ubtv.php?id=327
+ª™ ”◊ —∂,http://202.61.135.139/ubtv.php?id=6
+ª™ƒ…µÁ”∞,http://202.61.135.139/ubtv.php?id=83
+ª™“’◊€∫œÃ®,http://202.61.135.139/ubtv.php?id=310
+÷– ”,http://202.61.135.139/ubtv.php?id=333
+÷– ”æ≠µ‰,http://202.61.135.139/ubtv.php?id=185
+÷– ”–¬Œ≈,http://202.61.135.139/ubtv.php?id=7
+÷– ”–¬Œ≈,http://202.61.135.139/ubtv.php?id=28
+÷– ”›º≤…,http://202.61.135.139/ubtv.php?id=74
+÷–ÃÏ–¬Œ≈,http://202.61.135.139/ubtv.php?id=3
+÷–ÃÏ◊€∫œ,http://202.61.135.139/ubtv.php?id=54
+÷–ÃÏ”È¿÷,http://202.61.135.139/ubtv.php?id=324
+÷–ÃÏ◊€∫œ,http://202.61.135.139/ubtv.php?id=325
+÷–ÃÏ—«÷ﬁÃ®,http://202.61.135.139/ubtv.php?id=322
+π´ ”,http://202.61.135.139/ubtv.php?id=86
+π´ ”,http://202.61.135.139/ubtv.php?id=59
+π´ ”,http://202.61.135.139/ubtv.php?id=361
+π´ ”œ∑æÁ,http://202.61.135.139/ubtv.php?id=69
+∞À¥Ûæ´≤ Ã®,http://202.61.135.139/ubtv.php?id=1024
+∞À¥Û◊€∫œÃ®,http://202.61.135.139/ubtv.php?id=90
+∞À¥Ûœ∑æÁÃ®,http://202.61.135.139/ubtv.php?id=81
+∂´…≠”◊”◊,http://202.61.135.139/ubtv.php?id=371
+∂´…≠◊€∫œÃ®,http://202.61.135.139/ubtv.php?id=372
+¡˙œÈ ±¥˙,http://202.61.135.139/ubtv.php?id=373
+∂´…≠–¬Œ≈,http://202.61.135.139/ubtv.php?id=9
+∂´…≠–¬Œ≈,http://202.61.135.139/ubtv.php?id=12
+∂´…≠œ∑æÁ,http://202.61.135.139/ubtv.php?id=321
+∂´…≠µÁ”∞,http://202.61.135.139/ubtv.php?id=350
+∂´…≠—Û∆¨,http://202.61.135.139/ubtv.php?id=1128
+∂´…≠π∫ŒÔ1,http://202.61.135.139/ubtv.php?id=1155
+∂´…≠π∫ŒÔ2,http://202.61.135.139/ubtv.php?id=1156
+¡˙ª™æ≠µ‰,http://202.61.135.139/ubtv.php?id=364
+¡˙ª™œ∑æÁ,http://202.61.135.139/ubtv.php?id=365
+¡˙ª™∂Øª≠,http://202.61.135.139/ubtv.php?id=366
+¡˙ª™µÁ”∞,http://202.61.135.139/ubtv.php?id=311
+¡˙ª™æ≠µ‰,http://202.61.135.139/ubtv.php?id=100
+¡˙ª™≈ºœÒ,http://202.61.135.139/ubtv.php?id=347
+¡˙ª™»’∫´,http://202.61.135.139/ubtv.php?id=382
+Œ≥¿¥,http://202.61.135.139/ubtv.php?id=46
+Œ≥¿¥,http://202.61.135.139/ubtv.php?id=337
+Œ≥¿¥ÃÂ”˝,http://202.61.135.139/ubtv.php?id=52
+Œ≥¿¥µÁ”∞,http://202.61.135.139/ubtv.php?id=96
+Œ≥¿¥ÃÂ”˝,http://202.61.135.139/ubtv.php?id=118
+Œ≥¿¥”˝¿÷,http://202.61.135.139/ubtv.php?id=312
+æ∏ÃÏ”˝¿÷Ã®,http://202.61.135.139/ubtv.php?id=1029
+æ∏ÃÏø®Õ®Ã®,http://202.61.135.139/ubtv.php?id=344
+æ∏ÃÏπ˙º Ã®,http://202.61.135.139/ubtv.php?id=345
+æ∏—Ûø®Õ®Ã®,http://202.61.135.139/ubtv.php?id=348
+æ∏ÃÏ”≥ª≠,http://202.61.135.139/ubtv.php?id=349
+æ∏—Ûœ∑æÁÃ®,http://202.61.135.139/ubtv.php?id=319
+æ∏ÃÏ◊€∫œÃ®,http://202.61.135.139/ubtv.php?id=308
+æ∏ÃÏ»’±æÃ®,http://202.61.135.139/ubtv.php?id=108
+æ∏ÃÏœ∑æÁÃ®,http://202.61.135.139/ubtv.php?id=109
+æ∏ÃÏµÁ”∞Ã®,http://202.61.135.139/ubtv.php?id=110
+æ∏ÃÏ◊ —∂Ã®,http://202.61.135.139/ubtv.php?id=49
+æ∏ÃÏª∂¿÷Ã®,http://202.61.135.139/ubtv.php?id=51
+TVBS,http://202.61.135.139/ubtv.php?id=16
+TVBS,http://202.61.135.139/ubtv.php?id=88
+TVBSª∂¿÷Ã®,http://202.61.135.139/ubtv.php?id=40
+TVBSæ´≤…Ã®,http://202.61.135.139/ubtv.php?id=66
+»˝¡¢LIVE–¬Œ≈,http://202.61.135.139/ubtv.php?id=4
+»˝¡¢Ã®ÕÂÃ®,http://202.61.135.139/ubtv.php?id=35
+»˝¡¢∂ºª·Ã®,http://202.61.135.139/ubtv.php?id=38
+»˝¡¢œ∑æÁÃ®,http://202.61.135.139/ubtv.php?id=64
+Âæ”Ó◊€∫œ,http://202.61.135.139/ubtv.php?id=190
+Âæ”Ó–¬Œ≈,http://202.61.135.139/ubtv.php?id=304
+Âæ”Ó–¬Œ≈Ã®ÕÂ,http://202.61.135.139/ubtv.php?id=87
+Âæ”Ó≤∆æ≠Ã®,http://202.61.135.139/ubtv.php?id=320
+“º◊€∫œ,http://202.61.135.139/ubtv.php?id=305
+“º–¬Œ≈,http://202.61.135.139/ubtv.php?id=303
+YouTubeΩ°øµ2.0,http://202.61.135.139/ubtv.php?id=2
+JET◊€∫œ,http://202.61.135.139/ubtv.php?id=41
+∫√¿≥ŒÎµÁ”∞,http://202.61.135.139/ubtv.php?id=37
+ÃÏ”≥æ≠µ‰,http://202.61.135.139/ubtv.php?id=328
+SET iNEWS,http://202.61.135.139/ubtv.php?id=8
+–“∏£ø’º‰æ”º“,http://202.61.135.139/ubtv.php?id=61
+≤…≤˝”∞æÁ,http://202.61.135.139/ubtv.php?id=62
+π˙–ÀŒ¿ ”,http://202.61.135.139/ubtv.php?id=65
+œ£Õ˚µÁ ”,http://202.61.135.139/ubtv.php?id=67
+¥ÔŒƒŒ˜∆µµ¿,http://202.61.135.139/ubtv.php?id=68
+ ±…–‘À∂ØX,http://202.61.135.139/ubtv.php?id=71
+”È¿÷,http://202.61.135.139/ubtv.php?id=73
+HakkqTV,http://202.61.135.139/ubtv.php?id=76
+—«÷ﬁ¬√”Œ,http://202.61.135.139/ubtv.php?id=77
+Œ¿ ”ÃÂ”˝,http://202.61.135.139/ubtv.php?id=79
+÷«¡÷ÃÂ”˝,http://202.61.135.139/ubtv.php?id=82
+CinemaWorld,http://202.61.135.139/ubtv.php?id=84
+±¨–¶∆µµ¿,http://202.61.135.139/ubtv.php?id=85
+AXN◊Ó∞ÆµÁ”∞,http://202.61.135.139/ubtv.php?id=92
+ ¿–¬◊€∫œ5,http://202.61.135.139/ubtv.php?id=95
+∏ﬂµ„◊€∫œ,http://202.61.135.139/ubtv.php?id=99
+»ÀÈg–l“ï,http://202.61.135.139/ubtv.php?id=101
+∫√œ˚œ¢TV,http://202.61.135.139/ubtv.php?id=104
+π˙–ÀŒ¿ ”,http://202.61.135.139/ubtv.php?id=105
+≤©Àπ˜»¡¶,http://202.61.135.139/ubtv.php?id=175
+¥Û∞Æ,http://202.61.135.139/ubtv.php?id=184
+Ωπ‚≤º¥¸ëÚ,http://202.61.135.139/ubtv.php?id=1060
+µ⁄1…Ã“µ,http://202.61.135.139/ubtv.php?id=186
+EYEœ∑æÁ,http://202.61.135.139/ubtv.php?id=191
+Nick∂˘ÕØ,http://202.61.135.139/ubtv.php?id=50
+Boomerang,http://202.61.135.139/ubtv.php?id=57
+AFN,http://202.61.135.139/ubtv.php?id=195
+÷–Œƒ◊÷Smithsonian,http://202.61.135.139/ubtv.php?id=291
+÷–Œƒ◊÷FoodNetwork,http://202.61.135.139/ubtv.php?id=294
+Eleven ÃÂ”˝2,http://202.61.135.139/ubtv.php?id=301
+π˙º“µÿ¿Ì,http://202.61.135.139/ubtv.php?id=302
+∑«∑≤…Ã“µ,http://202.61.135.139/ubtv.php?id=187
+ƒÍ¥˙–¬Œ≈,http://202.61.135.139/ubtv.php?id=236
+ÃΩÀ˜—«÷ﬁ,http://202.61.135.139/ubtv.php?id=306
+ÃΩÀ˜∆µµ¿,http://202.61.135.139/ubtv.php?id=1035
+π˙º““∞…˙,http://202.61.135.139/ubtv.php?id=1038
+AFN,http://202.61.135.139/ubtv.php?id=307
+ø’÷–”¢”ÔΩÃ,http://202.61.135.139/ubtv.php?id=313
+∑«∑≤–¬Œ≈,http://202.61.135.139/ubtv.php?id=314
+¡¢◊€∫œÃ®,http://202.61.135.139/ubtv.php?id=315
+¬¸µœÃ®,http://202.61.135.139/ubtv.php?id=316
+÷–ª™≤∆æ≠Ã®,http://202.61.135.139/ubtv.php?id=317
+…˙ªÓ”¢”ÔÃ®,http://202.61.135.139/ubtv.php?id=323
+ÃΩÀ˜ø∆—ß,http://202.61.135.139/ubtv.php?id=343
+ELTA”È¿÷,http://202.61.135.139/ubtv.php?id=351
+CATCHPLAYµÁ”∞Ã®,http://202.61.135.139/ubtv.php?id=362
+∫√œ˚œ¢2,http://202.61.135.139/ubtv.php?id=363
+Œ¿ ”Œ˜∆¨,http://202.61.135.139/ubtv.php?id=369
+Love Nature,http://202.61.135.139/ubtv.php?id=388
+TV5MONDE STYLE,http://202.61.135.139/ubtv.php?id=389
+ELTA”∞æÁ,http://202.61.135.139/ubtv.php?id=500
+CLASSICA π≈µ‰¿÷,http://202.61.135.139/ubtv.php?id=1027
+ELTA◊€∫œ,http://202.61.135.139/ubtv.php?id=1137
+MOMO”H◊”Ã®,http://202.61.135.139/ubtv.php?id=1149
+CNø®Õ®∆µµ¿,http://202.61.135.139/ubtv.php?id=107
+÷Ì∏Á¡¡∏ËÃ¸–„,http://202.61.135.139/ubtv.php?id=75
+∞Æ∑≈,http://202.61.135.139/ubtv.php?id=1127
+∞Æ∑≈2,http://202.61.135.139/ubtv.php?id=299
+ê€∑≈3,http://202.61.135.139/ubtv.php?id=259
+Œ®–ƒÎä“ï,http://202.61.135.139/ubtv.php?id=1150
+π‚”∞öW÷ﬁ,http://202.61.135.139/ubtv.php?id=1157
+History 2,http://202.61.135.139/ubtv.php?id=1158
+CI◊Ô∞∏Ç…≤È,http://202.61.135.139/ubtv.php?id=1159
+AXNÅÜ÷ﬁ,http://202.61.135.139/ubtv.php?id=1066
+MOMO«◊◊”,http://202.61.135.139/ubtv.php?id=1126
+Z∆µµ¿,http://202.61.135.139/ubtv.php?id=1130
+Cartoon,http://202.61.135.139/ubtv.php?id=48
+FOX ÃÂ”˝1,http://202.61.135.139/ubtv.php?id=1131
+FOX ÃÂ”˝2,http://202.61.135.139/ubtv.php?id=1132
+FOX,http://202.61.135.139/ubtv.php?id=384
+FOX ACTION,http://202.61.135.139/ubtv.php?id=385
+FOX CRIME,http://202.61.135.139/ubtv.php?id=386
+Eleven ÃÂ”˝1,http://202.61.135.139/ubtv.php?id=1133
+TRACEÃÂ”˝Stars,http://202.61.135.139/ubtv.php?id=1037
+∂ØŒÔ–««Ú1,http://202.61.135.139/ubtv.php?id=367
+∂ØŒÔ–««Ú2,http://202.61.135.139/ubtv.php?id=368
+≤©Àπ∏ﬂ«Ú1,http://202.61.135.139/ubtv.php?id=377
+≤©ÀπŒﬁœﬁ,http://202.61.135.139/ubtv.php?id=381
+≤©ÀπŒﬁœﬁ2,http://202.61.135.139/ubtv.php?id=426
+≤©Àπ∏ﬂ«Ú2,http://202.61.135.139/ubtv.php?id=378
+≤©Àπ‘À∂Ø1,http://202.61.135.139/ubtv.php?id=379
+≤©Àπ‘À∂Ø2,http://202.61.135.139/ubtv.php?id=380
+≤©ÀπÕ¯«Ú,http://202.61.135.139/ubtv.php?id=498
+∞Æ∂˚¥ÔÃÂ”˝1,http://202.61.135.139/ubtv.php?id=192
+∞Æå™¥ÔÃÂ”˝2,http://202.61.135.139/ubtv.php?id=193
+∞Æ∂˚¥ÔÃÂ”˝3,http://202.61.135.139/ubtv.php?id=194
+À´–«,http://202.61.135.139/ubtv.php?id=1086
+CERIA,http://202.61.135.139/ubtv.php?id=1161
+AOD351,http://202.61.135.139/ubtv.php?id=1162
+AOD352,http://202.61.135.139/ubtv.php?id=1163
+AOD353,http://202.61.135.139/ubtv.php?id=1164
+AOD354,http://202.61.135.139/ubtv.php?id=1165
+AOD355,http://202.61.135.139/ubtv.php?id=1166
+WWE,http://202.61.135.139/ubtv.php?id=1167
+EGG,http://202.61.135.139/ubtv.php?id=1168
+OKTO,http://202.61.135.139/ubtv.php?id=1169
+TVN,http://202.61.135.139/ubtv.php?id=1170
+BNC,http://202.61.135.139/ubtv.php?id=1171
+Arena,http://202.61.135.139/ubtv.php?id=1172
+CRICKET,http://202.61.135.139/ubtv.php?id=1173
+IKIM TV,http://202.61.135.139/ubtv.php?id=1147
+AOD353,http://202.61.135.139/ubtv.php?id=1067
+AOD354,http://202.61.135.139/ubtv.php?id=1068
+AOD355,http://202.61.135.139/ubtv.php?id=1069
+ASSP1_,http://202.61.135.139/ubtv.php?id=1070
+ASSP2_,http://202.61.135.139/ubtv.php?id=1071
+ASSP3_,http://202.61.135.139/ubtv.php?id=1072
+AEC,http://202.61.135.139/ubtv.php?id=1073
+ASSP4,http://202.61.135.139/ubtv.php?id=1074
+OKEY,http://202.61.135.139/ubtv.php?id=1075
+Suria,http://202.61.135.139/ubtv.php?id=1076
+Channel U,http://202.61.135.139/ubtv.php?id=1077
+Vasantham,http://202.61.135.139/ubtv.php?id=1078
+AXN,http://202.61.135.139/ubtv.php?id=1044
+BNC,http://202.61.135.139/ubtv.php?id=1045
+ARENA,http://202.61.135.139/ubtv.php?id=1049
+AOD351,http://202.61.135.139/ubtv.php?id=1050
+»´º—,http://202.61.135.139/ubtv.php?id=427
+AOD,http://202.61.135.139/ubtv.php?id=428
+À´–«,http://202.61.135.139/ubtv.php?id=431
+ª∂œ≤Ã®,http://202.61.135.139/ubtv.php?id=432
+Astro AEC,http://202.61.135.139/ubtv.php?id=433
+Astro suria,http://202.61.135.139/ubtv.php?id=434
+TV1,http://202.61.135.139/ubtv.php?id=435
+TV2,http://202.61.135.139/ubtv.php?id=436
+TV3,http://202.61.135.139/ubtv.php?id=437
+TV9,http://202.61.135.139/ubtv.php?id=438
+NTV7 Awani,http://202.61.135.139/ubtv.php?id=439
+Astro Awani,http://202.61.135.139/ubtv.php?id=440
+ÃÏ”≥,http://202.61.135.139/ubtv.php?id=441
+TV8,http://202.61.135.139/ubtv.php?id=442
+AOD352,http://202.61.135.139/ubtv.php?id=450
+Channel5,http://202.61.135.139/ubtv.php?id=141
+Channel8,http://202.61.135.139/ubtv.php?id=142
+AWANI,http://202.61.135.139/ubtv.php?id=1151
+Disney j,http://202.61.135.139/ubtv.php?id=47
+Disneyxd,http://202.61.135.139/ubtv.php?id=31
+Nickj,http://202.61.135.139/ubtv.php?id=53
+Nickelodeon europe,http://202.61.135.139/ubtv.php?id=56
+BabyFirst,http://202.61.135.139/ubtv.php?id=173
+BBC CBeebies,http://202.61.135.139/ubtv.php?id=115
+Babylu,http://202.61.135.139/ubtv.php?id=1129
+π˙Õ‚5,http://202.61.135.139/ubtv.php?id=5
+ª ¬Ì◊„«Ú,http://202.61.135.139/ubtv.php?id=20
+VOA–l“ï,http://202.61.135.139/ubtv.php?id=22
+Animax,http://202.61.135.139/ubtv.php?id=60
+Travel Channel,http://202.61.135.139/ubtv.php?id=63
+cnex,http://202.61.135.139/ubtv.php?id=91
+M2O“Ù¿÷,http://202.61.135.139/ubtv.php?id=94
+BBC earth,http://202.61.135.139/ubtv.php?id=97
+BLVE ANT EXTREME,http://202.61.135.139/ubtv.php?id=103
+“Ùò∑MTV Live,http://202.61.135.139/ubtv.php?id=106
+LUXE.TV,http://202.61.135.139/ubtv.php?id=112
+Fashion One,http://202.61.135.139/ubtv.php?id=113
+History,http://202.61.135.139/ubtv.php?id=116
+BBC 1,http://202.61.135.139/ubtv.php?id=158
+BBC Parliament,http://202.61.135.139/ubtv.php?id=159
+BBC Entertainment,http://202.61.135.139/ubtv.php?id=160
+BBC Alba,http://202.61.135.139/ubtv.php?id=161
+BBC Parliament,http://202.61.135.139/ubtv.php?id=162
+π´÷⁄∫≈∫–◊”»Ìº˛ª„,http://202.61.135.139/ubtv.php?id=163
+BBC News,http://202.61.135.139/ubtv.php?id=164
+”¢π˙BBC 2,http://202.61.135.139/ubtv.php?id=157
+BT Sport 1,http://202.61.135.139/ubtv.php?id=165
+BT Sport 2,http://202.61.135.139/ubtv.php?id=166
+BT Sport 3,http://202.61.135.139/ubtv.php?id=167
+BT Sport ESPN,http://202.61.135.139/ubtv.php?id=168
+”¢π˙Channel 4,http://202.61.135.139/ubtv.php?id=169
+ESPNU,http://202.61.135.139/ubtv.php?id=170
+Sky Sport 2,http://202.61.135.139/ubtv.php?id=171
+Sky Sports 1,http://202.61.135.139/ubtv.php?id=172
+‹á√‘TV,http://202.61.135.139/ubtv.php?id=352
+VIUTV6,http://202.61.135.139/ubtv.php?id=176
+ÃÂ”˝MainEvent,http://202.61.135.139/ubtv.php?id=177
+Sky Sports Action,http://202.61.135.139/ubtv.php?id=178
+Sky Sports Cricket,http://202.61.135.139/ubtv.php?id=179
+Sky Sports Golf,http://202.61.135.139/ubtv.php?id=180
+Sky Sports PremierLeague,http://202.61.135.139/ubtv.php?id=181
+Sky Sports,http://202.61.135.139/ubtv.php?id=182
+Sky Sport 3,http://202.61.135.139/ubtv.php?id=183
+Medici Arts,http://202.61.135.139/ubtv.php?id=188
+Bloomberg Europe,http://202.61.135.139/ubtv.php?id=370
+VTV4,http://202.61.135.139/ubtv.php?id=341
+FOX Sport 3,http://202.61.135.139/ubtv.php?id=376
+FOX Family,http://202.61.135.139/ubtv.php?id=383
+CW LIVE,http://202.61.135.139/ubtv.php?id=420
+BBC world news,http://202.61.135.139/ubtv.php?id=421
+BBC lifestyle,http://202.61.135.139/ubtv.php?id=424
+Ginx csrortstv,http://202.61.135.139/ubtv.php?id=425
+ÃΩÀ˜EVE,http://202.61.135.139/ubtv.php?id=1036
+Ûw”˝WWE,http://202.61.135.139/ubtv.php?id=1081
+FOX WILD CARA,http://202.61.135.139/ubtv.php?id=1083
+”°ƒ·Karaoke,http://202.61.135.139/ubtv.php?id=1141
+”°ƒ·Jakarta Globe,http://202.61.135.139/ubtv.php?id=1142
+”°ƒ·InsanTV,http://202.61.135.139/ubtv.php?id=1143
+”°ƒ·CNN Indonesia,http://202.61.135.139/ubtv.php?id=1145
+”°ƒ·MetroTV,http://202.61.135.139/ubtv.php?id=1124
+DWµ¬π˙÷Æ¬ï,http://202.61.135.139/ubtv.php?id=1059
+VOA÷Æ“Ù,http://202.61.135.139/ubtv.php?id=495
+5 Star Max,http://202.61.135.139/ubtv.php?id=1174
+Action Max,http://202.61.135.139/ubtv.php?id=1175
+MoreMax,http://202.61.135.139/ubtv.php?id=1176
+Hallmark Channel,http://202.61.135.139/ubtv.php?id=1177
+Hallmark Drama,http://202.61.135.139/ubtv.php?id=1178
+Hallmark Movie,http://202.61.135.139/ubtv.php?id=1179
+TCM,http://202.61.135.139/ubtv.php?id=1180
+Starz in Black,http://202.61.135.139/ubtv.php?id=1181
+ESPN 1,http://202.61.135.139/ubtv.php?id=1182
+ESPN 2,http://202.61.135.139/ubtv.php?id=1183
+NBC Sport,http://202.61.135.139/ubtv.php?id=1184
+NBA TV US,http://202.61.135.139/ubtv.php?id=1185
+Fox Sport 1,http://202.61.135.139/ubtv.php?id=1186
+Fox Sport 2,http://202.61.135.139/ubtv.php?id=1187
+Tennis,http://202.61.135.139/ubtv.php?id=1188
+NFL Network,http://202.61.135.139/ubtv.php?id=1189
+Golf,http://202.61.135.139/ubtv.php?id=1190
+WWE,http://202.61.135.139/ubtv.php?id=1191
+UFC PASS,http://202.61.135.139/ubtv.php?id=1192
+Willow,http://202.61.135.139/ubtv.php?id=1193
+NHL Network,http://202.61.135.139/ubtv.php?id=1194
+Bein Sports USA,http://202.61.135.139/ubtv.php?id=1195
+ESPN U,http://202.61.135.139/ubtv.php?id=1196
+Big Ten Network,http://202.61.135.139/ubtv.php?id=1197
+Discovery Channel,http://202.61.135.139/ubtv.php?id=1198
+Motor Trend,http://202.61.135.139/ubtv.php?id=1199
+National Geographic,http://202.61.135.139/ubtv.php?id=1200
+Nat Geo Wild,http://202.61.135.139/ubtv.php?id=1201
+Investigation Discovery US,http://202.61.135.139/ubtv.php?id=1202
+Animal Planet,http://202.61.135.139/ubtv.php?id=1203
+History,http://202.61.135.139/ubtv.php?id=1204
+SMITHSONIAN,http://202.61.135.139/ubtv.php?id=1205
+TLC,http://202.61.135.139/ubtv.php?id=1206
+Science,http://202.61.135.139/ubtv.php?id=1207
+Disney,http://202.61.135.139/ubtv.php?id=1208
+Disney XD,http://202.61.135.139/ubtv.php?id=1209
+Disney Junior,http://202.61.135.139/ubtv.php?id=1210
+Cartoon Network US,http://202.61.135.139/ubtv.php?id=1211
+Nickelodeon US,http://202.61.135.139/ubtv.php?id=1212
+Nick Junior,http://202.61.135.139/ubtv.php?id=1213
+Boomerang,http://202.61.135.139/ubtv.php?id=1214
+Universal Kids,http://202.61.135.139/ubtv.php?id=1215
+ABC,http://202.61.135.139/ubtv.php?id=1216
+NBC,http://202.61.135.139/ubtv.php?id=1217
+FOX,http://202.61.135.139/ubtv.php?id=1218
+CBS,http://202.61.135.139/ubtv.php?id=1219
+CW,http://202.61.135.139/ubtv.php?id=1220
+SYFY,http://202.61.135.139/ubtv.php?id=1221
+E!,http://202.61.135.139/ubtv.php?id=1222
+Comedy Central,http://202.61.135.139/ubtv.php?id=1223
+TNT US,http://202.61.135.139/ubtv.php?id=1224
+Bravo US,http://202.61.135.139/ubtv.php?id=1225
+LifeTime US,http://202.61.135.139/ubtv.php?id=1226
+Arts and Entertainment,http://202.61.135.139/ubtv.php?id=1227
+AMC,http://202.61.135.139/ubtv.php?id=1228
+WE TV,http://202.61.135.139/ubtv.php?id=1229
+USA Network,http://202.61.135.139/ubtv.php?id=1230
+BET,http://202.61.135.139/ubtv.php?id=1231
+Lifetime Movie Network,http://202.61.135.139/ubtv.php?id=1232
+VH1,http://202.61.135.139/ubtv.php?id=1233
+TBS,http://202.61.135.139/ubtv.php?id=1234
+OWN US,http://202.61.135.139/ubtv.php?id=1235
+GSN,http://202.61.135.139/ubtv.php?id=1236
+HGTV US,http://202.61.135.139/ubtv.php?id=1237
+Cooking Channel,http://202.61.135.139/ubtv.php?id=1238
+MTV US,http://202.61.135.139/ubtv.php?id=1239
+FYI,http://202.61.135.139/ubtv.php?id=1240
+BabyTV,http://202.61.135.139/ubtv.php?id=1241
+TVB1,http://202.61.135.139/ubtv.php?id=1242
+TVB DRAMA,http://202.61.135.139/ubtv.php?id=1243
+TVBJ1,http://202.61.135.139/ubtv.php?id=1244
+TVBE,http://202.61.135.139/ubtv.php?id=1245
+NOWTV,http://202.61.135.139/ubtv.php?id=1246
+CNN USA,http://202.61.135.139/ubtv.php?id=1102
+FOX,http://202.61.135.139/ubtv.php?id=1103
+MSNBC,http://202.61.135.139/ubtv.php?id=1104
+The Weather,http://202.61.135.139/ubtv.php?id=1105
+CNBC,http://202.61.135.139/ubtv.php?id=1106
+Bloomberg,http://202.61.135.139/ubtv.php?id=1107
+Fox Business,http://202.61.135.139/ubtv.php?id=1108
+HBO Comedy,http://202.61.135.139/ubtv.php?id=1109
+HBO1US,http://202.61.135.139/ubtv.php?id=1110
+HBO2US,http://202.61.135.139/ubtv.php?id=1111
+HBO Signature,http://202.61.135.139/ubtv.php?id=1112
+HBO Family,http://202.61.135.139/ubtv.php?id=1113
+ShowTime 1,http://202.61.135.139/ubtv.php?id=1114
+ShowTime 2,http://202.61.135.139/ubtv.php?id=1115
+ShowCase US,http://202.61.135.139/ubtv.php?id=1116
+Starz,http://202.61.135.139/ubtv.php?id=1117
+Starz Comedy,http://202.61.135.139/ubtv.php?id=1118
+Starz Edge,http://202.61.135.139/ubtv.php?id=1119
+Starz Kids Family,http://202.61.135.139/ubtv.php?id=1120
+Starz Encore,http://202.61.135.139/ubtv.php?id=1121
+Starz Encore Westerns,http://202.61.135.139/ubtv.php?id=1122
+Cinemax,http://202.61.135.139/ubtv.php?id=1123
+30A TV,http://202.61.135.139/ubtv.php?id=1052
+American Horrors,http://202.61.135.139/ubtv.php?id=1054
+Atlanta,http://202.61.135.139/ubtv.php?id=1055
+Panama City,http://202.61.135.139/ubtv.php?id=1056
+Pawleys Island,http://202.61.135.139/ubtv.php?id=1057
+HBO Comedy East,http://202.61.135.139/ubtv.php?id=269
+BET,http://202.61.135.139/ubtv.php?id=270
+HBO East,http://202.61.135.139/ubtv.php?id=271
+HBO Signature,http://202.61.135.139/ubtv.php?id=272
+HBO Zone East,http://202.61.135.139/ubtv.php?id=273
+HGTV,http://202.61.135.139/ubtv.php?id=274
+HISTORY,http://202.61.135.139/ubtv.php?id=275
+GOD TV,http://202.61.135.139/ubtv.php?id=276
+Box Nation,http://202.61.135.139/ubtv.php?id=277
+Big Ten Network,http://202.61.135.139/ubtv.php?id=278
+Sec Network,http://202.61.135.139/ubtv.php?id=279
+NFL RedZone,http://202.61.135.139/ubtv.php?id=280
+NESN,http://202.61.135.139/ubtv.php?id=281
+Tennis,http://202.61.135.139/ubtv.php?id=282
+UFC Network,http://202.61.135.139/ubtv.php?id=283
+TNT,http://202.61.135.139/ubtv.php?id=284
+NATGEO,http://202.61.135.139/ubtv.php?id=285
+MTV,http://202.61.135.139/ubtv.php?id=286
+CP 24 Canada,http://202.61.135.139/ubtv.php?id=1247
+CBC News,http://202.61.135.139/ubtv.php?id=1248
+CTV News,http://202.61.135.139/ubtv.php?id=1249
+Business Network News,http://202.61.135.139/ubtv.php?id=1250
+The Weather Network,http://202.61.135.139/ubtv.php?id=1251
+CBC,http://202.61.135.139/ubtv.php?id=1252
+CTV,http://202.61.135.139/ubtv.php?id=1253
+Global,http://202.61.135.139/ubtv.php?id=1254
+City,http://202.61.135.139/ubtv.php?id=1255
+CHCH,http://202.61.135.139/ubtv.php?id=1256
+CTV 2,http://202.61.135.139/ubtv.php?id=1257
+OMNI 1,http://202.61.135.139/ubtv.php?id=1258
+OMNI 2,http://202.61.135.139/ubtv.php?id=1259
+TVO,http://202.61.135.139/ubtv.php?id=1260
+Discovery Canada,http://202.61.135.139/ubtv.php?id=1261
+TLC Canada,http://202.61.135.139/ubtv.php?id=1262
+Love Nature,http://202.61.135.139/ubtv.php?id=1263
+Food Network Cabada,http://202.61.135.139/ubtv.php?id=1265
+Cooking Channel Canada,http://202.61.135.139/ubtv.php?id=1266
+CTV Comedy,http://202.61.135.139/ubtv.php?id=1267
+CTV SciFi,http://202.61.135.139/ubtv.php?id=1268
+Crave 1,http://202.61.135.139/ubtv.php?id=1269
+Crave 2,http://202.61.135.139/ubtv.php?id=1270
+Crave 3,http://202.61.135.139/ubtv.php?id=1271
+Crave 4,http://202.61.135.139/ubtv.php?id=1272
+TSN 2,http://202.61.135.139/ubtv.php?id=1274
+TSN 1,http://202.61.135.139/ubtv.php?id=1273
+TSN 3,http://202.61.135.139/ubtv.php?id=1275
+TSN 4,http://202.61.135.139/ubtv.php?id=1276
+TSN 5,http://202.61.135.139/ubtv.php?id=1277
+SportNet ON,http://202.61.135.139/ubtv.php?id=1278
+SportNet One,http://202.61.135.139/ubtv.php?id=1279
+SportNet World,http://202.61.135.139/ubtv.php?id=1280
+SportNet 360,http://202.61.135.139/ubtv.php?id=1281
+NBA CA,http://202.61.135.139/ubtv.php?id=1282
+TreeHouse,http://202.61.135.139/ubtv.php?id=1283
+Teletoon,http://202.61.135.139/ubtv.php?id=1284
+YTV,http://202.61.135.139/ubtv.php?id=1285
+–¬ ±¥˙∂´≤ø,http://202.61.135.139/ubtv.php?id=1286
+–¬ ±¥˙Œ˜≤ø,http://202.61.135.139/ubtv.php?id=1287
+≥« –µÁ ”,http://202.61.135.139/ubtv.php?id=1289
+–¬ ±¥˙2,http://202.61.135.139/ubtv.php?id=1288
+DD News,http://202.61.135.139/ubtv.php?id=463
+HBO,http://202.61.135.139/ubtv.php?id=464
+ZeeNews,http://202.61.135.139/ubtv.php?id=465
+TEN1,http://202.61.135.139/ubtv.php?id=466
+TEN2,http://202.61.135.139/ubtv.php?id=467
+TEN3,http://202.61.135.139/ubtv.php?id=468
+And Pictures,http://202.61.135.139/ubtv.php?id=469
+Colors,http://202.61.135.139/ubtv.php?id=470
+NDTV,http://202.61.135.139/ubtv.php?id=471
+Zee Tamil,http://202.61.135.139/ubtv.php?id=472
+India TV,http://202.61.135.139/ubtv.php?id=473
+Sony Mix,http://202.61.135.139/ubtv.php?id=474
+Sony Sab,http://202.61.135.139/ubtv.php?id=475
+Star Movies,http://202.61.135.139/ubtv.php?id=478
+Star Plus,http://202.61.135.139/ubtv.php?id=479
+Zee Marathi,http://202.61.135.139/ubtv.php?id=480
+Zee Studio,http://202.61.135.139/ubtv.php?id=481
+Zee TV,http://202.61.135.139/ubtv.php?id=482
+Sony,http://202.61.135.139/ubtv.php?id=483
+Zee Cinema,http://202.61.135.139/ubtv.php?id=484
+Zee Classic,http://202.61.135.139/ubtv.php?id=485
+Tv9 Bharatvarsh,http://202.61.135.139/ubtv.php?id=1125
+TVN MOVIE,http://202.61.135.139/ubtv.php?id=1082
+YTN Science,http://202.61.135.139/ubtv.php?id=1092
+EBS 2,http://202.61.135.139/ubtv.php?id=1093
+EBS Kids,http://202.61.135.139/ubtv.php?id=1094
+EBS English,http://202.61.135.139/ubtv.php?id=1095
+EBSPlus 1,http://202.61.135.139/ubtv.php?id=1096
+EBSPlus 2,http://202.61.135.139/ubtv.php?id=1097
+EBS1,http://202.61.135.139/ubtv.php?id=1098
+UBC SBS,http://202.61.135.139/ubtv.php?id=1099
+KTV,http://202.61.135.139/ubtv.php?id=1100
+SBS Star,http://202.61.135.139/ubtv.php?id=1101
+YTN,http://202.61.135.139/ubtv.php?id=1061
+KBS Dram,http://202.61.135.139/ubtv.php?id=1062
+NGC,http://202.61.135.139/ubtv.php?id=1064
+??TV,http://202.61.135.139/ubtv.php?id=1065
+SBS??,http://202.61.135.139/ubtv.php?id=486
+SBS Sports,http://202.61.135.139/ubtv.php?id=487
+OCN,http://202.61.135.139/ubtv.php?id=488
+iNet,http://202.61.135.139/ubtv.php?id=490
+????,http://202.61.135.139/ubtv.php?id=492
+∞Îçuπ˙ÎH–¬¬Ñ,http://202.61.135.139/ubtv.php?id=494
+OCNMOVIES,http://202.61.135.139/ubtv.php?id=1020
+KBS joy,http://202.61.135.139/ubtv.php?id=1154
+Tconvers,http://202.61.135.139/ubtv.php?id=1134
+Mnet,http://202.61.135.139/ubtv.php?id=1136
+KBS2,http://202.61.135.139/ubtv.php?id=250
+KBS1,http://202.61.135.139/ubtv.php?id=174
+MBC,http://202.61.135.139/ubtv.php?id=251
+SBS,http://202.61.135.139/ubtv.php?id=252
+JTBC,http://202.61.135.139/ubtv.php?id=253
+SBS FUNE,http://202.61.135.139/ubtv.php?id=254
+SBS CNBC,http://202.61.135.139/ubtv.php?id=255
+CNTV,http://202.61.135.139/ubtv.php?id=256
+MBN,http://202.61.135.139/ubtv.php?id=257
+Channel A,http://202.61.135.139/ubtv.php?id=258
+π´÷⁄∫≈∫–◊”»Ìº˛ª„,http://202.61.135.139/ubtv.php?id=261
+SBS PLus,http://202.61.135.139/ubtv.php?id=262
+KBSN???,http://202.61.135.139/ubtv.php?id=264
+MBC???+,http://202.61.135.139/ubtv.php?id=265
+Spotv,http://202.61.135.139/ubtv.php?id=266
+Spotv2,http://202.61.135.139/ubtv.php?id=267
+JTBC??,http://202.61.135.139/ubtv.php?id=268
+MBCevery1,http://202.61.135.139/ubtv.php?id=476
+NHK World,http://202.61.135.139/ubtv.php?id=117
+NTV,http://202.61.135.139/ubtv.php?id=119
+NHKE,http://202.61.135.139/ubtv.php?id=120
+NHKG,http://202.61.135.139/ubtv.php?id=121
+tvtokyo,http://202.61.135.139/ubtv.php?id=123
+TBS,http://202.61.135.139/ubtv.php?id=124
+¥Û⁄ÊTV,http://202.61.135.139/ubtv.php?id=126
+ABC≥Ø»’,http://202.61.135.139/ubtv.php?id=127
+bs1,http://202.61.135.139/ubtv.php?id=128
+jsport1,http://202.61.135.139/ubtv.php?id=129
+jsport2,http://202.61.135.139/ubtv.php?id=130
+jsport3,http://202.61.135.139/ubtv.php?id=131
+jsport4,http://202.61.135.139/ubtv.php?id=132
+wowo1,http://202.61.135.139/ubtv.php?id=133
+wowo2,http://202.61.135.139/ubtv.php?id=134
+wowo3,http://202.61.135.139/ubtv.php?id=135
+STAR1,http://202.61.135.139/ubtv.php?id=136
+STAR2,http://202.61.135.139/ubtv.php?id=137
+STAR3,http://202.61.135.139/ubtv.php?id=138
+animax,http://202.61.135.139/ubtv.php?id=139
+Green,http://202.61.135.139/ubtv.php?id=140
+’iâ”•∆•Ï•”,http://202.61.135.139/ubtv.php?id=198
+ö∞»’∑≈ÀÕ,http://202.61.135.139/ubtv.php?id=199
+ÈvŒ˜•∆•Ï•”,http://202.61.135.139/ubtv.php?id=235
+•∆•Ï•”≥Ø»’,http://202.61.135.139/ubtv.php?id=237
+BS•◊•Ï•ﬂ•¢•‡,http://202.61.135.139/ubtv.php?id=238
+BS•◊•Ï•ﬂ•¢•‡,http://202.61.135.139/ubtv.php?id=239
+BS»’•∆•Ï,http://202.61.135.139/ubtv.php?id=240
+BS≥Ø»’,http://202.61.135.139/ubtv.php?id=241
+BSTBS,http://202.61.135.139/ubtv.php?id=242
+BS•∆•Ï•”ñ|æ©,http://202.61.135.139/ubtv.php?id=243
+BSFUJI,http://202.61.135.139/ubtv.php?id=244
+GREEN,http://202.61.135.139/ubtv.php?id=245
+SKY A,http://202.61.135.139/ubtv.php?id=247
+Golf Network,http://202.61.135.139/ubtv.php?id=249
+Tokyo MX1,http://202.61.135.139/ubtv.php?id=33
+Japan Channel DX,http://202.61.135.139/ubtv.php?id=39
+News24,http://202.61.135.139/ubtv.php?id=42
+ïr¥˙Ñ°§ŒåüÈTº“,http://202.61.135.139/ubtv.php?id=287
+MUSIC JAPAN,http://202.61.135.139/ubtv.php?id=288
+KIDS,http://202.61.135.139/ubtv.php?id=289
+Discovery,http://202.61.135.139/ubtv.php?id=290
+–l–«Ñ°àˆ,http://202.61.135.139/ubtv.php?id=298
+π´÷⁄∫≈∫–◊”»Ìº˛ª„,http://202.61.135.139/ubtv.php?id=1148
+THHN,http://202.61.135.139/ubtv.php?id=1290
+LA34,http://202.61.135.139/ubtv.php?id=1291
+THGL,http://202.61.135.139/ubtv.php?id=1292
+PTP,http://202.61.135.139/ubtv.php?id=1293
+QRT,http://202.61.135.139/ubtv.php?id=1294
+THBT,http://202.61.135.139/ubtv.php?id=1295
+KonTumTV,http://202.61.135.139/ubtv.php?id=1296
+BPTV1,http://202.61.135.139/ubtv.php?id=1297
+BPTV2,http://202.61.135.139/ubtv.php?id=1298
+VITV,http://202.61.135.139/ubtv.php?id=1299
+ANTV,http://202.61.135.139/ubtv.php?id=1300
+ANTV,http://202.61.135.139/ubtv.php?id=1301
+HBTV,http://202.61.135.139/ubtv.php?id=1302
+KienGiangTV,http://202.61.135.139/ubtv.php?id=1309
+KienGiangTV1,http://202.61.135.139/ubtv.php?id=1310
+AnGiangTV,http://202.61.135.139/ubtv.php?id=1311
+ANTV,http://202.61.135.139/ubtv.php?id=1312
+BenTreTV,http://202.61.135.139/ubtv.php?id=1313
+BinhPhuocTV1,http://202.61.135.139/ubtv.php?id=1314
+BinhPhuocTV2,http://202.61.135.139/ubtv.php?id=1315
+Da Nang TV1,http://202.61.135.139/ubtv.php?id=1316
+DakLakTV,http://202.61.135.139/ubtv.php?id=1317
+KhanhHoaTV,http://202.61.135.139/ubtv.php?id=1318
+KienGiangTV,http://202.61.135.139/ubtv.php?id=1319
+KienGiangTV1,http://202.61.135.139/ubtv.php?id=1320
+PhuYenTV,http://202.61.135.139/ubtv.php?id=1323
+QuangNamTV,http://202.61.135.139/ubtv.php?id=1324
+KonTumTV,http://202.61.135.139/ubtv.php?id=1325
+LongAnTV,http://202.61.135.139/ubtv.php?id=1321
+NhanDanTV,http://202.61.135.139/ubtv.php?id=1322
+Thai PBS,http://202.61.135.139/ubtv.php?id=1047
+NBT,http://202.61.135.139/ubtv.php?id=1048
+DDTV,http://202.61.135.139/ubtv.php?id=1138
+Thairath TV,http://202.61.135.139/ubtv.php?id=1139
+ChanneL8,http://202.61.135.139/ubtv.php?id=1140
+œ„Ω∂Ã®,http://202.61.135.139/ubtv.php?id=408
+À…“ï1,http://202.61.135.139/ubtv.php?id=402
+À…“ï2,http://202.61.135.139/ubtv.php?id=403
+À…“ï3,http://202.61.135.139/ubtv.php?id=404
+HOT,http://202.61.135.139/ubtv.php?id=407
+happy,http://202.61.135.139/ubtv.php?id=412
+Û@ÿWÃ®,http://202.61.135.139/ubtv.php?id=409
+≤ ∫ÁK,http://202.61.135.139/ubtv.php?id=406
+≤ ∫ÁE,http://202.61.135.139/ubtv.php?id=405
+≈À∂‰¿≠ÕÍ√¿,http://202.61.135.139/ubtv.php?id=410
+≈À∂‰¿≠∑€ºt,http://202.61.135.139/ubtv.php?id=411
+≤ ∫ÁÎä”∞,http://202.61.135.139/ubtv.php?id=413
+“ª±æµ¿,http://202.61.135.139/ubtv.php?id=414
+∂˛±æµ¿,http://202.61.135.139/ubtv.php?id=415
+ñ|æ©ü·,http://202.61.135.139/ubtv.php?id=416
+Erox HD,http://202.61.135.139/ubtv.php?id=456
+Dorcel HD,http://202.61.135.139/ubtv.php?id=454
+HD,http://202.61.135.139/ubtv.php?id=458
+Hustler HD,http://202.61.135.139/ubtv.php?id=451
+SCT Classic,http://202.61.135.139/ubtv.php?id=462
+Redlight HD,http://202.61.135.139/ubtv.php?id=452
+SEX ATION HD,http://202.61.135.139/ubtv.php?id=459
+Super One HD,http://202.61.135.139/ubtv.php?id=457
+Pr?vate TV,http://202.61.135.139/ubtv.php?id=453
+Passie,http://202.61.135.139/ubtv.php?id=461
+≈À∂‰¿≠ÕÍ√¿,http://202.61.135.139/ubtv.php?id=410
+≈À∂‰¿≠∑€ºt,http://202.61.135.139/ubtv.php?id=411
+≤ ∫ÁÎä”∞,http://202.61.135.139/ubtv.php?id=413
+“ª±æµ¿,http://202.61.135.139/ubtv.php?id=414
+∂˛±æµ¿,http://202.61.135.139/ubtv.php?id=415
+ñ|æ©ü·,http://202.61.135.139/ubtv.php?id=416
+Erox HD,http://202.61.135.139/ubtv.php?id=456
+Dorcel HD,http://202.61.135.139/ubtv.php?id=454
+Babes TV HD,http://202.61.135.139/ubtv.php?id=458
+Hustler HD,http://202.61.135.139/ubtv.php?id=451
+SCT Classic,http://202.61.135.139/ubtv.php?id=462
+Redlight HD,http://202.61.135.139/ubtv.php?id=452
+SEX ATION HD,http://202.61.135.139/ubtv.php?id=459
+Super One HD,http://202.61.135.139/ubtv.php?id=457
+Pr?vate TV,http://202.61.135.139/ubtv.php?id=453
+Passie,http://202.61.135.139/ubtv.php?id=461
+≈À∂‰¿≠ÕÍ√¿,http://202.61.135.139/ubtv.php?id=410
+≈À∂‰¿≠∑€ºt,http://202.61.135.139/ubtv.php?id=411
+≤ ∫ÁÎä”∞,http://202.61.135.139/ubtv.php?id=413
+“ª±æµ¿,http://202.61.135.139/ubtv.php?id=414
+∂˛±æµ¿,http://202.61.135.139/ubtv.php?id=415
+ñ|æ©ü·,http://202.61.135.139/ubtv.php?id=416
+Erox HD,http://202.61.135.139/ubtv.php?id=456
+Dorcel HD,http://202.61.135.139/ubtv.php?id=454
+Babes TV HD,http://202.61.135.139/ubtv.php?id=458
